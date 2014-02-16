@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina
+END
+SessionConnector.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/SessionConnector.class
+END
+SessionConnector$QFTimerThreadFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/SessionConnector$QFTimerThreadFactory.class
+END
+CompositeIoFilterChainBuilder.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/CompositeIoFilterChainBuilder.class
+END
+ThreadPerSessionEventHandlingStrategy$MessageDispatchingThread.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/ThreadPerSessionEventHandlingStrategy$MessageDispatchingThread.class
+END
+SingleThreadedEventHandlingStrategy.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/SingleThreadedEventHandlingStrategy.class
+END
+SessionConnector$SessionTimerTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/SessionConnector$SessionTimerTask.class
+END
+AbstractIoHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/AbstractIoHandler.class
+END
+SessionConnector$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/SessionConnector$1.class
+END
+SingleThreadedEventHandlingStrategy$SessionMessageEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/SingleThreadedEventHandlingStrategy$SessionMessageEvent.class
+END
+NetworkingOptions.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/NetworkingOptions.class
+END
+SingleThreadedEventHandlingStrategy$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/SingleThreadedEventHandlingStrategy$1.class
+END
+ThreadPerSessionEventHandlingStrategy.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/ThreadPerSessionEventHandlingStrategy.class
+END
+CriticalProtocolCodecException.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/CriticalProtocolCodecException.class
+END
+ProtocolFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/ProtocolFactory.class
+END
+IoSessionResponder.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/IoSessionResponder.class
+END
+EventHandlingStrategy.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/EventHandlingStrategy.class
+END

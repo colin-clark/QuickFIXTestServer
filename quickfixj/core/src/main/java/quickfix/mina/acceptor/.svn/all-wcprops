@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/mina/acceptor
+END
+AbstractSocketAcceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/mina/acceptor/AbstractSocketAcceptor.java
+END
+DynamicAcceptorSessionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/mina/acceptor/DynamicAcceptorSessionProvider.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/mina/acceptor/package.html
+END
+AcceptorSessionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/mina/acceptor/AcceptorSessionProvider.java
+END
+AcceptorIoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/mina/acceptor/AcceptorIoHandler.java
+END

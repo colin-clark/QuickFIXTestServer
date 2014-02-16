@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/codegen
+END
+COPYRIGHT.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/codegen/COPYRIGHT.xml
+END
+MessageCodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/codegen/MessageCodeGenerator.java
+END
+MessageSubclass.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/codegen/MessageSubclass.xsl
+END
+MessageCracker.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/codegen/MessageCracker.xsl
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/codegen/package.html
+END
+MessageFactory.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/codegen/MessageFactory.xsl
+END
+CodeGenerationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/codegen/CodeGenerationException.java
+END
+Message.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/codegen/Message.xsl
+END
+Fields.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/codegen/Fields.xsl
+END

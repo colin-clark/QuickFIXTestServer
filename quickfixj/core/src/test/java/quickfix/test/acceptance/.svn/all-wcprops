@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance
+END
+TestConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/TestConnection.java
+END
+AcceptanceTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/AcceptanceTestSuite.java
+END
+TestStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/TestStep.java
+END
+ATApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/ATApplication.java
+END
+InitiateMessageStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/InitiateMessageStep.java
+END
+ExpectMessageStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/ExpectMessageStep.java
+END
+ATServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/ATServer.java
+END
+ConnectToServerStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/ConnectToServerStep.java
+END
+ATMessageCracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/ATMessageCracker.java
+END
+PrintComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/PrintComment.java
+END
+ExpectDisconnectStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/ExpectDisconnectStep.java
+END

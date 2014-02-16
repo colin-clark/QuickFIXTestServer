@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/config/sql/oracle
+END
+messages_table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/config/sql/oracle/messages_table.sql
+END
+sessions_table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/config/sql/oracle/sessions_table.sql
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fixt11
+END
+MessageCracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fixt11/MessageCracker.java
+END
+Reject.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fixt11/Reject.java
+END
+SequenceReset.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fixt11/SequenceReset.java
+END
+TestRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fixt11/TestRequest.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fixt11/package.html
+END
+Heartbeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fixt11/Heartbeat.java
+END
+Logout.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fixt11/Logout.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fixt11/Message.java
+END
+ResendRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fixt11/ResendRequest.java
+END
+MessageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fixt11/MessageFactory.java
+END
+Logon.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fixt11/Logon.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/mina/ssl
+END
+SecureSocketTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/mina/ssl/SecureSocketTest.java
+END
+SSLContextFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/mina/ssl/SSLContextFactoryTest.java
+END

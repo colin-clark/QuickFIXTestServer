@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/src/main/scripts
+END
+executor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/src/main/scripts/executor.sh
+END
+banzai.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/src/main/scripts/banzai.sh
+END
+executor.bat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/src/main/scripts/executor.bat
+END
+banzai.bat
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/src/main/scripts/banzai.bat
+END

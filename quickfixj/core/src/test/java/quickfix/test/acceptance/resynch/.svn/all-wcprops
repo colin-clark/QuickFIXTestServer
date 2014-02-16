@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/resynch
+END
+ResynchTestServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/resynch/ResynchTestServer.java
+END
+ResynchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/resynch/ResynchTest.java
+END
+ResynchTestClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/resynch/ResynchTestClient.java
+END

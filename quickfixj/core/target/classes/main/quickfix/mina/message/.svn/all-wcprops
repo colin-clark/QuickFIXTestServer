@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/message
+END
+FIXMessageDecoder$MessageListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/message/FIXMessageDecoder$MessageListener.class
+END
+FIXMessageDecoder$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/message/FIXMessageDecoder$1.class
+END
+FIXMessageDecoder$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/message/FIXMessageDecoder$2.class
+END
+FIXMessageDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/message/FIXMessageDecoder.class
+END
+FIXMessageDecoder$BufPos.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/message/FIXMessageDecoder$BufPos.class
+END

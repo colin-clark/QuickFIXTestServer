@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/field/converter
+END
+BooleanConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/field/converter/BooleanConverter.class
+END
+CharConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/field/converter/CharConverter.class
+END
+UtcTimestampConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/field/converter/UtcTimestampConverter.class
+END
+DoubleConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/field/converter/DoubleConverter.class
+END
+DecimalConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/field/converter/DecimalConverter.class
+END
+IntConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/field/converter/IntConverter.class
+END
+UtcDateOnlyConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/field/converter/UtcDateOnlyConverter.class
+END
+UtcTimeOnlyConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/field/converter/UtcTimeOnlyConverter.class
+END
+AbstractDateTimeConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/field/converter/AbstractDateTimeConverter.class
+END

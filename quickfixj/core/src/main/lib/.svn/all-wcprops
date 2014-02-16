@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/lib
+END
+backport-util-concurrent-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/lib/backport-util-concurrent-2.1.jar
+END
+mina-core-1.1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/lib/mina-core-1.1.0.jar
+END
+mina-core-1.1.7-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/lib/mina-core-1.1.7-sources.jar
+END
+mina-core-1.1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/lib/mina-core-1.1.7.jar
+END
+slf4j-api-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/lib/slf4j-api-1.6.1.jar
+END
+slf4j-log4j12-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/lib/slf4j-log4j12-1.6.1.jar
+END
+mina-core-1.1.0-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/lib/mina-core-1.1.0-sources.jar
+END

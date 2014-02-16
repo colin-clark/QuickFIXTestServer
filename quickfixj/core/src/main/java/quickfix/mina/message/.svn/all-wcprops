@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/mina/message
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/mina/message/package.html
+END
+FIXMessageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/mina/message/FIXMessageEncoder.java
+END
+FIXMessageDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/mina/message/FIXMessageDecoder.java
+END
+FIXProtocolCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/mina/message/FIXProtocolCodecFactory.java
+END

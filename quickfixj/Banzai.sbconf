@@ -1,0 +1,15 @@
+[default]
+ConnectionType=initiator
+SenderCompID=BANZAI
+TargetCompID=STREAMBASE
+SocketConnectHost=localhost
+StartTime=00:00:00
+EndTime=00:00:00
+HeartBtInt=30
+ReconnectInterval=5
+FileLogPath=logs/banzai.log
+FileStorePath=store/banzai.store
+
+[session]
+BeginString=FIX.4.2
+SocketConnectPort=1111

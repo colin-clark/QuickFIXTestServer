@@ -1,0 +1,2573 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component
+END
+SecLstUpdRelSymGrp$NoRelatedSym$NoSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecLstUpdRelSymGrp$NoRelatedSym$NoSecurityAltID.class
+END
+SettlInstGrp$NoSettlInst$NoDlvyInst.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SettlInstGrp$NoSettlInst$NoDlvyInst.class
+END
+AffectedOrdGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/AffectedOrdGrp.class
+END
+InstrumentExtension.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrumentExtension.class
+END
+ListOrdGrp$NoOrders$NoStipulations.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ListOrdGrp$NoOrders$NoStipulations.class
+END
+QuotReqGrp$NoRelatedSym$NoInstrumentParties$NoInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqGrp$NoRelatedSym$NoInstrumentParties$NoInstrumentPartySubIDs.class
+END
+QuotReqGrp$NoRelatedSym$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqGrp$NoRelatedSym$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+END
+UnderlyingInstrument$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UnderlyingInstrument$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+END
+AllocAckGrp$NoAllocs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/AllocAckGrp$NoAllocs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+END
+RelSymDerivSecGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RelSymDerivSecGrp.class
+END
+MDFullGrp$NoMDEntries$NoPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MDFullGrp$NoMDEntries$NoPartyIDs.class
+END
+QuotReqRjctGrp$NoRelatedSym$NoInstrumentParties$NoInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqRjctGrp$NoRelatedSym$NoInstrumentParties$NoInstrumentPartySubIDs.class
+END
+TrdgSesGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdgSesGrp.class
+END
+MDIncGrp$NoMDEntries$NoPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MDIncGrp$NoMDEntries$NoPartyIDs.class
+END
+UndInstrmtStrkPxGrp$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndInstrmtStrkPxGrp$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+END
+TrdInstrmtLegGrp$NoLegs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdInstrmtLegGrp$NoLegs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+END
+PositionAmountData.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/PositionAmountData.class
+END
+FinancingDetails.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/FinancingDetails.class
+END
+ListOrdGrp$NoOrders$NoPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ListOrdGrp$NoOrders$NoPartyIDs.class
+END
+SideCrossOrdModGrp$NoSides$NoAllocs.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SideCrossOrdModGrp$NoSides$NoAllocs.class
+END
+QuotSetGrp$NoQuoteSets.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetGrp$NoQuoteSets.class
+END
+QuotReqRjctGrp$NoRelatedSym$NoUnderlyings$NoUnderlyingStips.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqRjctGrp$NoRelatedSym$NoUnderlyings$NoUnderlyingStips.class
+END
+CompIDReqGrp$NoCompIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/CompIDReqGrp$NoCompIDs.class
+END
+CpctyConfGrp$NoCapacities.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/CpctyConfGrp$NoCapacities.class
+END
+TrdCapRptAckSideGrp$NoSides$NoClearingInstructions.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptAckSideGrp$NoSides$NoClearingInstructions.class
+END
+RgstDtlsGrp$NoRegistDtls.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RgstDtlsGrp$NoRegistDtls.class
+END
+ListOrdGrp$NoOrders$NoAllocs.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ListOrdGrp$NoOrders$NoAllocs.class
+END
+QuotSetAckGrp$NoQuoteSets$NoQuoteEntries.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetAckGrp$NoQuoteSets$NoQuoteEntries.class
+END
+RFQReqGrp$NoRelatedSym$NoUnderlyings$NoUndlyInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RFQReqGrp$NoRelatedSym$NoUnderlyings$NoUndlyInstrumentParties.class
+END
+RelSymDerivSecGrp$NoRelatedSym$NoSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RelSymDerivSecGrp$NoRelatedSym$NoSecurityAltID.class
+END
+SideCrossOrdModGrp$NoSides$NoAllocs$NoNestedPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SideCrossOrdModGrp$NoSides$NoAllocs$NoNestedPartyIDs.class
+END
+MDIncGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MDIncGrp.class
+END
+UndInstrmtCollGrp$NoUnderlyings.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndInstrmtCollGrp$NoUnderlyings.class
+END
+TrdCapRptAckSideGrp$NoSides$NoAllocs$NoNested2PartyIDs$NoNested2PartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptAckSideGrp$NoSides$NoAllocs$NoNested2PartyIDs$NoNested2PartySubIDs.class
+END
+QuotCxlEntriesGrp$NoQuoteEntries$NoUnderlyings$NoUndlyInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotCxlEntriesGrp$NoQuoteEntries$NoUnderlyings$NoUndlyInstrumentParties.class
+END
+UndInstrmtCollGrp$NoUnderlyings$NoUnderlyingSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndInstrmtCollGrp$NoUnderlyings$NoUnderlyingSecurityAltID.class
+END
+InstrmtStrkPxGrp$NoStrikes$NoInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtStrkPxGrp$NoStrikes$NoInstrumentParties.class
+END
+Stipulations$NoStipulations.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/Stipulations$NoStipulations.class
+END
+MDRjctGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MDRjctGrp.class
+END
+UndSecAltIDGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndSecAltIDGrp.class
+END
+ExpirationQty.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ExpirationQty.class
+END
+TrdCapRptAckSideGrp$NoSides$NoPartyIDs$NoPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptAckSideGrp$NoSides$NoPartyIDs$NoPartySubIDs.class
+END
+QuotSetAckGrp$NoQuoteSets$NoUndlyInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetAckGrp$NoQuoteSets$NoUndlyInstrumentParties.class
+END
+UndInstrmtCollGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndInstrmtCollGrp.class
+END
+PosUndInstrmtGrp$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/PosUndInstrmtGrp$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+END
+SettlInstructionsData$NoDlvyInst$NoSettlPartyIDs$NoSettlPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SettlInstructionsData$NoDlvyInst$NoSettlPartyIDs$NoSettlPartySubIDs.class
+END
+UndInstrmtGrp$NoUnderlyings$NoUndlyInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndInstrmtGrp$NoUnderlyings$NoUndlyInstrumentParties.class
+END
+SettlInstGrp$NoSettlInst$NoDlvyInst$NoSettlPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SettlInstGrp$NoSettlInst$NoDlvyInst$NoSettlPartyIDs.class
+END
+InstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrumentParties.class
+END
+SideCrossOrdCxlGrp$NoSides.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SideCrossOrdCxlGrp$NoSides.class
+END
+DlvyInstGrp$NoDlvyInst$NoSettlPartyIDs$NoSettlPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/DlvyInstGrp$NoDlvyInst$NoSettlPartyIDs$NoSettlPartySubIDs.class
+END
+InstrmtLegGrp$NoLegs.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtLegGrp$NoLegs.class
+END
+LinesOfTextGrp$NoLinesOfText.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/LinesOfTextGrp$NoLinesOfText.class
+END
+ListOrdGrp$NoOrders$NoTradingSessions.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ListOrdGrp$NoOrders$NoTradingSessions.class
+END
+BidCompReqGrp$NoBidComponents.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/BidCompReqGrp$NoBidComponents.class
+END
+UnderlyingInstrument.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UnderlyingInstrument.class
+END
+MDReqGrp$NoMDEntryTypes.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MDReqGrp$NoMDEntryTypes.class
+END
+TrdInstrmtLegGrp$NoLegs.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdInstrmtLegGrp$NoLegs.class
+END
+MDIncGrp$NoMDEntries$NoInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MDIncGrp$NoMDEntries$NoInstrumentParties.class
+END
+Parties$NoPartyIDs$NoPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/Parties$NoPartyIDs$NoPartySubIDs.class
+END
+MiscFeesGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MiscFeesGrp.class
+END
+UndInstrmtStrkPxGrp$NoUnderlyings.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndInstrmtStrkPxGrp$NoUnderlyings.class
+END
+QuotReqGrp$NoRelatedSym$NoEvents.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqGrp$NoRelatedSym$NoEvents.class
+END
+QuotCxlEntriesGrp$NoQuoteEntries$NoInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotCxlEntriesGrp$NoQuoteEntries$NoInstrumentParties.class
+END
+RelSymDerivSecGrp$NoRelatedSym$NoInstrAttrib.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RelSymDerivSecGrp$NoRelatedSym$NoInstrAttrib.class
+END
+AllocAckGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/AllocAckGrp.class
+END
+SecTypesGrp$NoSecurityTypes.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecTypesGrp$NoSecurityTypes.class
+END
+PreAllocMlegGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/PreAllocMlegGrp.class
+END
+LegOrdGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/LegOrdGrp.class
+END
+SecLstUpdRelSymGrp$NoRelatedSym$NoLegs.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecLstUpdRelSymGrp$NoRelatedSym$NoLegs.class
+END
+BidDescReqGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/BidDescReqGrp.class
+END
+RelSymDerivSecGrp$NoRelatedSym$NoInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RelSymDerivSecGrp$NoRelatedSym$NoInstrumentParties.class
+END
+LegOrdGrp$NoLegs$NoNestedPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/LegOrdGrp$NoLegs$NoNestedPartyIDs.class
+END
+LegQuotStatGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/LegQuotStatGrp.class
+END
+QuotReqRjctGrp$NoRelatedSym.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqRjctGrp$NoRelatedSym.class
+END
+QuotReqRjctGrp$NoRelatedSym$NoPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqRjctGrp$NoRelatedSym$NoPartyIDs.class
+END
+MDIncGrp$NoMDEntries$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MDIncGrp$NoMDEntries$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+END
+LegQuotStatGrp$NoLegs$NoNestedPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/LegQuotStatGrp$NoLegs$NoNestedPartyIDs.class
+END
+UndInstrmtStrkPxGrp$NoUnderlyings$NoUndlyInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndInstrmtStrkPxGrp$NoUnderlyings$NoUndlyInstrumentParties.class
+END
+QuotReqRjctGrp$NoRelatedSym$NoLegs$NoNestedPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqRjctGrp$NoRelatedSym$NoLegs$NoNestedPartyIDs.class
+END
+LegOrdGrp$NoLegs$NoLegStipulations.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/LegOrdGrp$NoLegs$NoLegStipulations.class
+END
+QuotCxlEntriesGrp$NoQuoteEntries$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotCxlEntriesGrp$NoQuoteEntries$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+END
+RelSymDerivSecGrp$NoRelatedSym$NoInstrumentParties$NoInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RelSymDerivSecGrp$NoRelatedSym$NoInstrumentParties$NoInstrumentPartySubIDs.class
+END
+ExecCollGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ExecCollGrp.class
+END
+InstrmtMDReqGrp$NoRelatedSym$NoInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtMDReqGrp$NoRelatedSym$NoInstrumentParties.class
+END
+TrdCapDtGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapDtGrp.class
+END
+TrdInstrmtLegGrp$NoLegs$NoLegStipulations.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdInstrmtLegGrp$NoLegs$NoLegStipulations.class
+END
+TrdCapRptSideGrp$NoSides$NoAllocs$NoNested2PartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptSideGrp$NoSides$NoAllocs$NoNested2PartyIDs.class
+END
+SecAltIDGrp$NoSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecAltIDGrp$NoSecurityAltID.class
+END
+OrdListStatGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/OrdListStatGrp.class
+END
+PegInstructions.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/PegInstructions.class
+END
+SecListGrp$NoRelatedSym$NoStipulations.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecListGrp$NoRelatedSym$NoStipulations.class
+END
+InstrmtMDReqGrp$NoRelatedSym$NoLegs.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtMDReqGrp$NoRelatedSym$NoLegs.class
+END
+PreAllocMlegGrp$NoAllocs$NoNested3PartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/PreAllocMlegGrp$NoAllocs$NoNested3PartyIDs.class
+END
+InstrmtMDReqGrp$NoRelatedSym$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtMDReqGrp$NoRelatedSym$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+END
+TrdCapRptSideGrp$NoSides.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptSideGrp$NoSides.class
+END
+AllocAckGrp$NoAllocs$NoNestedPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/AllocAckGrp$NoAllocs$NoNestedPartyIDs.class
+END
+TrdCapRptAckSideGrp$NoSides$NoAllocs.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptAckSideGrp$NoSides$NoAllocs.class
+END
+PreAllocGrp$NoAllocs$NoNestedPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/PreAllocGrp$NoAllocs$NoNestedPartyIDs.class
+END
+InstrmtMDReqGrp$NoRelatedSym$NoUnderlyings.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtMDReqGrp$NoRelatedSym$NoUnderlyings.class
+END
+ExecAllocGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ExecAllocGrp.class
+END
+AllocGrp$NoAllocs$NoDlvyInst.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/AllocGrp$NoAllocs$NoDlvyInst.class
+END
+TrdInstrmtLegGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdInstrmtLegGrp.class
+END
+SideCrossOrdModGrp$NoSides$NoPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SideCrossOrdModGrp$NoSides$NoPartyIDs.class
+END
+AttrbGrp$NoInstrAttrib.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/AttrbGrp$NoInstrAttrib.class
+END
+TrdInstrmtLegGrp$NoLegs$NoNestedPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdInstrmtLegGrp$NoLegs$NoNestedPartyIDs.class
+END
+SettlInstructionsData.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SettlInstructionsData.class
+END
+InstrmtMDReqGrp$NoRelatedSym$NoUnderlyings$NoUnderlyingStips.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtMDReqGrp$NoRelatedSym$NoUnderlyings$NoUnderlyingStips.class
+END
+QuotReqRjctGrp$NoRelatedSym$NoUnderlyings.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqRjctGrp$NoRelatedSym$NoUnderlyings.class
+END
+QuotReqGrp$NoRelatedSym$NoUnderlyings$NoUnderlyingStips.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqGrp$NoRelatedSym$NoUnderlyings$NoUnderlyingStips.class
+END
+InstrmtStrkPxGrp$NoStrikes.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtStrkPxGrp$NoStrikes.class
+END
+MDIncGrp$NoMDEntries$NoEvents.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MDIncGrp$NoMDEntries$NoEvents.class
+END
+EvntGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/EvntGrp.class
+END
+RootParties$NoRootPartyIDs$NoRootPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RootParties$NoRootPartyIDs$NoRootPartySubIDs.class
+END
+SecLstUpdRelSymGrp$NoRelatedSym$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecLstUpdRelSymGrp$NoRelatedSym$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+END
+MDIncGrp$NoMDEntries$NoSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MDIncGrp$NoMDEntries$NoSecurityAltID.class
+END
+OrdAllocGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/OrdAllocGrp.class
+END
+PositionQty$NoPositions.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/PositionQty$NoPositions.class
+END
+MiscFeesGrp$NoMiscFees.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MiscFeesGrp$NoMiscFees.class
+END
+ListOrdGrp$NoOrders$NoInstrumentParties$NoInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ListOrdGrp$NoOrders$NoInstrumentParties$NoInstrumentPartySubIDs.class
+END
+ContAmtGrp$NoContAmts.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ContAmtGrp$NoContAmts.class
+END
+QuotCxlEntriesGrp$NoQuoteEntries$NoSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotCxlEntriesGrp$NoQuoteEntries$NoSecurityAltID.class
+END
+TrdCapRptSideGrp$NoSides$NoPartyIDs$NoPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptSideGrp$NoSides$NoPartyIDs$NoPartySubIDs.class
+END
+RootParties$NoRootPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RootParties$NoRootPartyIDs.class
+END
+QuotSetAckGrp$NoQuoteSets$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetAckGrp$NoQuoteSets$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+END
+OrdListStatGrp$NoOrders.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/OrdListStatGrp$NoOrders.class
+END
+IOIQualGrp$NoIOIQualifiers.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/IOIQualGrp$NoIOIQualifiers.class
+END
+SideCrossOrdCxlGrp$NoSides$NoPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SideCrossOrdCxlGrp$NoSides$NoPartyIDs.class
+END
+UndlyInstrumentParties$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndlyInstrumentParties$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+END
+OrdAllocGrp$NoOrders$NoNested2PartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/OrdAllocGrp$NoOrders$NoNested2PartyIDs.class
+END
+RgstDistInstGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RgstDistInstGrp.class
+END
+ExecCollGrp$NoExecs.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ExecCollGrp$NoExecs.class
+END
+MDIncGrp$NoMDEntries$NoUnderlyings$NoUnderlyingSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MDIncGrp$NoMDEntries$NoUnderlyings$NoUnderlyingSecurityAltID.class
+END
+QuotSetAckGrp$NoQuoteSets$NoUnderlyingStips.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetAckGrp$NoQuoteSets$NoUnderlyingStips.class
+END
+MDIncGrp$NoMDEntries$NoUnderlyings$NoUndlyInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MDIncGrp$NoMDEntries$NoUnderlyings$NoUndlyInstrumentParties.class
+END
+SecLstUpdRelSymGrp$NoRelatedSym$NoInstrAttrib.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecLstUpdRelSymGrp$NoRelatedSym$NoInstrAttrib.class
+END
+QuotReqGrp$NoRelatedSym$NoUnderlyings$NoUndlyInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqGrp$NoRelatedSym$NoUnderlyings$NoUndlyInstrumentParties.class
+END
+QuotCxlEntriesGrp$NoQuoteEntries$NoUnderlyings$NoUnderlyingSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotCxlEntriesGrp$NoQuoteEntries$NoUnderlyings$NoUnderlyingSecurityAltID.class
+END
+QuotSetGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetGrp.class
+END
+UndInstrmtGrp$NoUnderlyings.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndInstrmtGrp$NoUnderlyings.class
+END
+ContAmtGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ContAmtGrp.class
+END
+SpreadOrBenchmarkCurveData.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SpreadOrBenchmarkCurveData.class
+END
+RgstDtlsGrp$NoRegistDtls$NoNestedPartyIDs$NoNestedPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RgstDtlsGrp$NoRegistDtls$NoNestedPartyIDs$NoNestedPartySubIDs.class
+END
+ContraGrp$NoContraBrokers.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ContraGrp$NoContraBrokers.class
+END
+LegOrdGrp$NoLegs.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/LegOrdGrp$NoLegs.class
+END
+QuotReqRjctGrp$NoRelatedSym$NoQuoteQualifiers.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqRjctGrp$NoRelatedSym$NoQuoteQualifiers.class
+END
+LegQuotGrp$NoLegs.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/LegQuotGrp$NoLegs.class
+END
+RFQReqGrp$NoRelatedSym$NoSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RFQReqGrp$NoRelatedSym$NoSecurityAltID.class
+END
+InstrmtLegExecGrp$NoLegs$NoNestedPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtLegExecGrp$NoLegs$NoNestedPartyIDs.class
+END
+QuotReqGrp$NoRelatedSym$NoLegs$NoLegStipulations.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqGrp$NoRelatedSym$NoLegs$NoLegStipulations.class
+END
+DiscretionInstructions.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/DiscretionInstructions.class
+END
+RFQReqGrp$NoRelatedSym$NoEvents.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RFQReqGrp$NoRelatedSym$NoEvents.class
+END
+QuotReqGrp$NoRelatedSym$NoUnderlyings.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqGrp$NoRelatedSym$NoUnderlyings.class
+END
+PosUndInstrmtGrp$NoUnderlyings$NoUnderlyingStips.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/PosUndInstrmtGrp$NoUnderlyings$NoUnderlyingStips.class
+END
+QuotReqGrp$NoRelatedSym$NoUnderlyings$NoUnderlyingSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqGrp$NoRelatedSym$NoUnderlyings$NoUnderlyingSecurityAltID.class
+END
+TrdCapRptAckSideGrp$NoSides$NoAllocs$NoNested2PartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptAckSideGrp$NoSides$NoAllocs$NoNested2PartyIDs.class
+END
+QuotSetGrp$NoQuoteSets$NoQuoteEntries.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetGrp$NoQuoteSets$NoQuoteEntries.class
+END
+SecListGrp$NoRelatedSym$NoUnderlyings$NoUnderlyingStips.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecListGrp$NoRelatedSym$NoUnderlyings$NoUnderlyingStips.class
+END
+QuotSetAckGrp$NoQuoteSets$NoQuoteEntries$NoInstrumentParties$NoInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetAckGrp$NoQuoteSets$NoQuoteEntries$NoInstrumentParties$NoInstrumentPartySubIDs.class
+END
+SecLstUpdRelSymGrp$NoRelatedSym$NoEvents.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecLstUpdRelSymGrp$NoRelatedSym$NoEvents.class
+END
+ListOrdGrp$NoOrders$NoSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ListOrdGrp$NoOrders$NoSecurityAltID.class
+END
+CompIDStatGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/CompIDStatGrp.class
+END
+Instrument.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/Instrument.class
+END
+AllocGrp$NoAllocs$NoDlvyInst$NoSettlPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/AllocGrp$NoAllocs$NoDlvyInst$NoSettlPartyIDs.class
+END
+RFQReqGrp$NoRelatedSym$NoLegs.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RFQReqGrp$NoRelatedSym$NoLegs.class
+END
+RFQReqGrp$NoRelatedSym$NoUnderlyings.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RFQReqGrp$NoRelatedSym$NoUnderlyings.class
+END
+LegQuotGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/LegQuotGrp.class
+END
+SettlInstGrp$NoSettlInst$NoPartyIDs$NoPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SettlInstGrp$NoSettlInst$NoPartyIDs$NoPartySubIDs.class
+END
+InstrmtMDReqGrp$NoRelatedSym.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtMDReqGrp$NoRelatedSym.class
+END
+TrdSessLstGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdSessLstGrp.class
+END
+QuotReqGrp$NoRelatedSym.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqGrp$NoRelatedSym.class
+END
+LegQuotGrp$NoLegs$NoNestedPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/LegQuotGrp$NoLegs$NoNestedPartyIDs.class
+END
+PreAllocGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/PreAllocGrp.class
+END
+QuotCxlEntriesGrp$NoQuoteEntries$NoLegs.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotCxlEntriesGrp$NoQuoteEntries$NoLegs.class
+END
+InstrmtLegExecGrp$NoLegs$NoLegStipulations.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtLegExecGrp$NoLegs$NoLegStipulations.class
+END
+QuotReqGrp$NoRelatedSym$NoLegs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqGrp$NoRelatedSym$NoLegs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+END
+LegOrdGrp$NoLegs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/LegOrdGrp$NoLegs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+END
+SecLstUpdRelSymGrp$NoRelatedSym$NoUnderlyingSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecLstUpdRelSymGrp$NoRelatedSym$NoUnderlyingSecurityAltID.class
+END
+QuotSetGrp$NoQuoteSets$NoQuoteEntries$NoEvents.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetGrp$NoQuoteSets$NoQuoteEntries$NoEvents.class
+END
+ListOrdGrp$NoOrders$NoUnderlyings$NoUnderlyingSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ListOrdGrp$NoOrders$NoUnderlyings$NoUnderlyingSecurityAltID.class
+END
+TrdCapRptAckSideGrp$NoSides$NoStipulations.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptAckSideGrp$NoSides$NoStipulations.class
+END
+Instrument$NoInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/Instrument$NoInstrumentParties.class
+END
+LegQuotStatGrp$NoLegs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/LegQuotStatGrp$NoLegs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+END
+QuotReqRjctGrp$NoRelatedSym$NoLegs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqRjctGrp$NoRelatedSym$NoLegs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+END
+LegOrdGrp$NoLegs$NoLegAllocs$NoNested2PartyIDs$NoNested2PartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/LegOrdGrp$NoLegs$NoLegAllocs$NoNested2PartyIDs$NoNested2PartySubIDs.class
+END
+QuotReqRjctGrp$NoRelatedSym$NoEvents.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqRjctGrp$NoRelatedSym$NoEvents.class
+END
+Parties.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/Parties.class
+END
+QuotSetGrp$NoQuoteSets$NoQuoteEntries$NoLegs.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetGrp$NoQuoteSets$NoQuoteEntries$NoLegs.class
+END
+QuotCxlEntriesGrp$NoQuoteEntries$NoUnderlyings.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotCxlEntriesGrp$NoQuoteEntries$NoUnderlyings.class
+END
+TrdCapRptSideGrp$NoSides$NoAllocs.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptSideGrp$NoSides$NoAllocs.class
+END
+UndInstrmtGrp$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndInstrmtGrp$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+END
+SecLstUpdRelSymGrp$NoRelatedSym$NoStipulations.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecLstUpdRelSymGrp$NoRelatedSym$NoStipulations.class
+END
+PositionQty.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/PositionQty.class
+END
+PreAllocMlegGrp$NoAllocs.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/PreAllocMlegGrp$NoAllocs.class
+END
+Instrument$NoInstrumentParties$NoInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/Instrument$NoInstrumentParties$NoInstrumentPartySubIDs.class
+END
+InstrmtGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtGrp.class
+END
+InstrmtStrkPxGrp$NoStrikes$NoEvents.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtStrkPxGrp$NoStrikes$NoEvents.class
+END
+QuotReqRjctGrp$NoRelatedSym$NoInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqRjctGrp$NoRelatedSym$NoInstrumentParties.class
+END
+OrderQtyData.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/OrderQtyData.class
+END
+RFQReqGrp$NoRelatedSym$NoInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RFQReqGrp$NoRelatedSym$NoInstrumentParties.class
+END
+RgstDtlsGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RgstDtlsGrp.class
+END
+PosUndInstrmtGrp$NoUnderlyings.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/PosUndInstrmtGrp$NoUnderlyings.class
+END
+AllocGrp$NoAllocs$NoNestedPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/AllocGrp$NoAllocs$NoNestedPartyIDs.class
+END
+QuotSetAckGrp$NoQuoteSets$NoQuoteEntries$NoSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetAckGrp$NoQuoteSets$NoQuoteEntries$NoSecurityAltID.class
+END
+PosUndInstrmtGrp$NoUnderlyings$NoUnderlyingSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/PosUndInstrmtGrp$NoUnderlyings$NoUnderlyingSecurityAltID.class
+END
+AllocGrp$NoAllocs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/AllocGrp$NoAllocs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+END
+MDFullGrp$NoMDEntries$NoPartyIDs$NoPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MDFullGrp$NoMDEntries$NoPartyIDs$NoPartySubIDs.class
+END
+SecListGrp$NoRelatedSym$NoUnderlyings$NoUnderlyingSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecListGrp$NoRelatedSym$NoUnderlyings$NoUnderlyingSecurityAltID.class
+END
+QuotReqRjctGrp$NoRelatedSym$NoUnderlyings$NoUndlyInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqRjctGrp$NoRelatedSym$NoUnderlyings$NoUndlyInstrumentParties.class
+END
+QuotReqGrp$NoRelatedSym$NoPartyIDs$NoPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqGrp$NoRelatedSym$NoPartyIDs$NoPartySubIDs.class
+END
+MDFullGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MDFullGrp.class
+END
+PreAllocGrp$NoAllocs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/PreAllocGrp$NoAllocs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+END
+LinesOfTextGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/LinesOfTextGrp.class
+END
+TrdCapRptSideGrp$NoSides$NoMiscFees.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptSideGrp$NoSides$NoMiscFees.class
+END
+QuotReqRjctGrp$NoRelatedSym$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqRjctGrp$NoRelatedSym$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+END
+RFQReqGrp$NoRelatedSym$NoInstrumentParties$NoInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RFQReqGrp$NoRelatedSym$NoInstrumentParties$NoInstrumentPartySubIDs.class
+END
+TrdCapRptSideGrp$NoSides$NoStipulations.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptSideGrp$NoSides$NoStipulations.class
+END
+QuotCxlEntriesGrp$NoQuoteEntries$NoEvents.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotCxlEntriesGrp$NoQuoteEntries$NoEvents.class
+END
+RFQReqGrp$NoRelatedSym$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RFQReqGrp$NoRelatedSym$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+END
+PosUndInstrmtGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/PosUndInstrmtGrp.class
+END
+SecListGrp$NoRelatedSym.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecListGrp$NoRelatedSym.class
+END
+AllocGrp$NoAllocs$NoMiscFees.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/AllocGrp$NoAllocs$NoMiscFees.class
+END
+InstrmtLegIOIGrp$NoLegs.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtLegIOIGrp$NoLegs.class
+END
+InstrmtGrp$NoRelatedSym.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtGrp$NoRelatedSym.class
+END
+MDFullGrp$NoMDEntries.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MDFullGrp$NoMDEntries.class
+END
+SideCrossOrdCxlGrp$NoSides$NoPartyIDs$NoPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SideCrossOrdCxlGrp$NoSides$NoPartyIDs$NoPartySubIDs.class
+END
+ListOrdGrp$NoOrders$NoEvents.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ListOrdGrp$NoOrders$NoEvents.class
+END
+SecLstUpdRelSymGrp$NoRelatedSym.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecLstUpdRelSymGrp$NoRelatedSym.class
+END
+Instrument$NoEvents.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/Instrument$NoEvents.class
+END
+SettlInstGrp$NoSettlInst$NoPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SettlInstGrp$NoSettlInst$NoPartyIDs.class
+END
+RoutingGrp$NoRoutingIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RoutingGrp$NoRoutingIDs.class
+END
+Stipulations.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/Stipulations.class
+END
+TrdgSesGrp$NoTradingSessions.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdgSesGrp$NoTradingSessions.class
+END
+SideCrossOrdModGrp$NoSides$NoAllocs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SideCrossOrdModGrp$NoSides$NoAllocs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+END
+RoutingGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RoutingGrp.class
+END
+RootParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RootParties.class
+END
+ListOrdGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ListOrdGrp.class
+END
+UnderlyingStipulations$NoUnderlyingStips.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UnderlyingStipulations$NoUnderlyingStips.class
+END
+SecListGrp$NoRelatedSym$NoInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecListGrp$NoRelatedSym$NoInstrumentParties.class
+END
+ContraGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ContraGrp.class
+END
+UndlyInstrumentParties$NoUndlyInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndlyInstrumentParties$NoUndlyInstrumentParties.class
+END
+InstrmtGrp$NoRelatedSym$NoInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtGrp$NoRelatedSym$NoInstrumentParties.class
+END
+TrdSessLstGrp$NoTradingSessions.class
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdSessLstGrp$NoTradingSessions.class
+END
+RgstDistInstGrp$NoDistribInsts.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RgstDistInstGrp$NoDistribInsts.class
+END
+SecListGrp$NoRelatedSym$NoUnderlyings$NoUndlyInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecListGrp$NoRelatedSym$NoUnderlyings$NoUndlyInstrumentParties.class
+END
+InstrmtMDReqGrp$NoRelatedSym$NoEvents.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtMDReqGrp$NoRelatedSym$NoEvents.class
+END
+SecLstUpdRelSymGrp$NoRelatedSym$NoInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecLstUpdRelSymGrp$NoRelatedSym$NoInstrumentParties.class
+END
+EvntGrp$NoEvents.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/EvntGrp$NoEvents.class
+END
+SideCrossOrdModGrp$NoSides.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SideCrossOrdModGrp$NoSides.class
+END
+RgstDtlsGrp$NoRegistDtls$NoNestedPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RgstDtlsGrp$NoRegistDtls$NoNestedPartyIDs.class
+END
+SecListGrp$NoRelatedSym$NoInstrumentParties$NoInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecListGrp$NoRelatedSym$NoInstrumentParties$NoInstrumentPartySubIDs.class
+END
+SecListGrp$NoRelatedSym$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecListGrp$NoRelatedSym$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+END
+CollInqQualGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/CollInqQualGrp.class
+END
+InstrmtStrkPxGrp$NoStrikes$NoInstrumentParties$NoInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtStrkPxGrp$NoStrikes$NoInstrumentParties$NoInstrumentPartySubIDs.class
+END
+InstrmtGrp$NoRelatedSym$NoInstrumentParties$NoInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtGrp$NoRelatedSym$NoInstrumentParties$NoInstrumentPartySubIDs.class
+END
+SecLstUpdRelSymGrp$NoRelatedSym$NoLegs$NoLegStipulations.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecLstUpdRelSymGrp$NoRelatedSym$NoLegs$NoLegStipulations.class
+END
+QuotReqRjctGrp$NoRelatedSym$NoSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqRjctGrp$NoRelatedSym$NoSecurityAltID.class
+END
+ListOrdGrp$NoOrders$NoStrategyParameters.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ListOrdGrp$NoOrders$NoStrategyParameters.class
+END
+SecTypesGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecTypesGrp.class
+END
+RelSymDerivSecGrp$NoRelatedSym.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RelSymDerivSecGrp$NoRelatedSym.class
+END
+MDIncGrp$NoMDEntries$NoPartyIDs$NoPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MDIncGrp$NoMDEntries$NoPartyIDs$NoPartySubIDs.class
+END
+PositionQty$NoPositions$NoNestedPartyIDs$NoNestedPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/PositionQty$NoPositions$NoNestedPartyIDs$NoNestedPartySubIDs.class
+END
+SecLstUpdRelSymGrp$NoRelatedSym$NoInstrumentParties$NoInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecLstUpdRelSymGrp$NoRelatedSym$NoInstrumentParties$NoInstrumentPartySubIDs.class
+END
+BidCompRspGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/BidCompRspGrp.class
+END
+QuotCxlEntriesGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotCxlEntriesGrp.class
+END
+TrdCapRptSideGrp$NoSides$NoClearingInstructions.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptSideGrp$NoSides$NoClearingInstructions.class
+END
+TrdCapRptAckSideGrp$NoSides.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptAckSideGrp$NoSides.class
+END
+LegOrdGrp$NoLegs$NoLegAllocs$NoNested2PartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/LegOrdGrp$NoLegs$NoLegAllocs$NoNested2PartyIDs.class
+END
+TrdCapRptSideGrp$NoSides$NoContAmts.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptSideGrp$NoSides$NoContAmts.class
+END
+UndInstrmtCollGrp$NoUnderlyings$NoUndlyInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndInstrmtCollGrp$NoUnderlyings$NoUndlyInstrumentParties.class
+END
+QuotReqRjctGrp$NoRelatedSym$NoStipulations.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqRjctGrp$NoRelatedSym$NoStipulations.class
+END
+AllocGrp$NoAllocs$NoClearingInstructions.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/AllocGrp$NoAllocs$NoClearingInstructions.class
+END
+SettlInstGrp$NoSettlInst$NoDlvyInst$NoSettlPartyIDs$NoSettlPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SettlInstGrp$NoSettlInst$NoDlvyInst$NoSettlPartyIDs$NoSettlPartySubIDs.class
+END
+QuotReqRjctGrp$NoRelatedSym$NoUnderlyings$NoUnderlyingSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqRjctGrp$NoRelatedSym$NoUnderlyings$NoUnderlyingSecurityAltID.class
+END
+InstrmtStrkPxGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtStrkPxGrp.class
+END
+ListOrdGrp$NoOrders$NoAllocs$NoNestedPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ListOrdGrp$NoOrders$NoAllocs$NoNestedPartyIDs.class
+END
+SecListGrp$NoRelatedSym$NoEvents.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecListGrp$NoRelatedSym$NoEvents.class
+END
+LegQuotGrp$NoLegs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/LegQuotGrp$NoLegs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+END
+InstrumentParties$NoInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrumentParties$NoInstrumentParties.class
+END
+ListOrdGrp$NoOrders$NoAllocs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ListOrdGrp$NoOrders$NoAllocs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+END
+QuotReqRjctGrp$NoRelatedSym$NoLegs$NoLegStipulations.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqRjctGrp$NoRelatedSym$NoLegs$NoLegStipulations.class
+END
+LegQuotStatGrp$NoLegs$NoLegStipulations.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/LegQuotStatGrp$NoLegs$NoLegStipulations.class
+END
+BidDescReqGrp$NoBidDescriptors.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/BidDescReqGrp$NoBidDescriptors.class
+END
+TrdCapRptSideGrp$NoSides$NoAllocs$NoNested2PartyIDs$NoNested2PartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptSideGrp$NoSides$NoAllocs$NoNested2PartyIDs$NoNested2PartySubIDs.class
+END
+MDIncGrp$NoMDEntries$NoLegs.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MDIncGrp$NoMDEntries$NoLegs.class
+END
+TrdCapRptAckSideGrp$NoSides$NoMiscFees.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptAckSideGrp$NoSides$NoMiscFees.class
+END
+QuotReqGrp$NoRelatedSym$NoLegs.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqGrp$NoRelatedSym$NoLegs.class
+END
+OrdAllocGrp$NoOrders.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/OrdAllocGrp$NoOrders.class
+END
+StrategyParametersGrp$NoStrategyParameters.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/StrategyParametersGrp$NoStrategyParameters.class
+END
+UnderlyingStipulations.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UnderlyingStipulations.class
+END
+UndInstrmtCollGrp$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndInstrmtCollGrp$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+END
+MDIncGrp$NoMDEntries$NoInstrumentParties$NoInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MDIncGrp$NoMDEntries$NoInstrumentParties$NoInstrumentPartySubIDs.class
+END
+QuotSetGrp$NoQuoteSets$NoUnderlyingStips.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetGrp$NoQuoteSets$NoUnderlyingStips.class
+END
+CollInqQualGrp$NoCollInquiryQualifier.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/CollInqQualGrp$NoCollInquiryQualifier.class
+END
+MDReqGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MDReqGrp.class
+END
+QuotCxlEntriesGrp$NoQuoteEntries$NoInstrumentParties$NoInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotCxlEntriesGrp$NoQuoteEntries$NoInstrumentParties$NoInstrumentPartySubIDs.class
+END
+RelSymDerivSecGrp$NoRelatedSym$NoEvents.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RelSymDerivSecGrp$NoRelatedSym$NoEvents.class
+END
+LegQuotGrp$NoLegs$NoLegStipulations.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/LegQuotGrp$NoLegs$NoLegStipulations.class
+END
+QuotSetAckGrp$NoQuoteSets$NoQuoteEntries$NoEvents.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetAckGrp$NoQuoteSets$NoQuoteEntries$NoEvents.class
+END
+TrdCapRptAckSideGrp$NoSides$NoSideTrdRegTS.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptAckSideGrp$NoSides$NoSideTrdRegTS.class
+END
+RFQReqGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RFQReqGrp.class
+END
+SettlInstGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SettlInstGrp.class
+END
+TrdRegTimestamps$NoTrdRegTimestamps.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdRegTimestamps$NoTrdRegTimestamps.class
+END
+UnderlyingInstrument$NoUndlyInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UnderlyingInstrument$NoUndlyInstrumentParties.class
+END
+InstrumentParties$NoInstrumentParties$NoInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrumentParties$NoInstrumentParties$NoInstrumentPartySubIDs.class
+END
+InstrmtStrkPxGrp$NoStrikes$NoSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtStrkPxGrp$NoStrikes$NoSecurityAltID.class
+END
+MDIncGrp$NoMDEntries$NoUnderlyings$NoUnderlyingStips.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MDIncGrp$NoMDEntries$NoUnderlyings$NoUnderlyingStips.class
+END
+RelSymDerivSecGrp$NoRelatedSym$NoLegs.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RelSymDerivSecGrp$NoRelatedSym$NoLegs.class
+END
+PosUndInstrmtGrp$NoUnderlyings$NoUndlyInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/PosUndInstrmtGrp$NoUnderlyings$NoUndlyInstrumentParties.class
+END
+QuotCxlEntriesGrp$NoQuoteEntries$NoUnderlyings$NoUnderlyingStips.class
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotCxlEntriesGrp$NoQuoteEntries$NoUnderlyings$NoUnderlyingStips.class
+END
+QuotReqGrp$NoRelatedSym$NoQuoteQualifiers.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqGrp$NoRelatedSym$NoQuoteQualifiers.class
+END
+InstrmtLegExecGrp$NoLegs.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtLegExecGrp$NoLegs.class
+END
+IOIQualGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/IOIQualGrp.class
+END
+InstrmtLegIOIGrp$NoLegs$NoLegStipulations.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtLegIOIGrp$NoLegs$NoLegStipulations.class
+END
+AllocGrp$NoAllocs.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/AllocGrp$NoAllocs.class
+END
+SecListGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecListGrp.class
+END
+YieldData.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/YieldData.class
+END
+UndInstrmtGrp$NoUnderlyings$NoUnderlyingStips.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndInstrmtGrp$NoUnderlyings$NoUnderlyingStips.class
+END
+InstrmtMDReqGrp$NoRelatedSym$NoInstrumentParties$NoInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtMDReqGrp$NoRelatedSym$NoInstrumentParties$NoInstrumentPartySubIDs.class
+END
+SideCrossOrdModGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SideCrossOrdModGrp.class
+END
+SecListGrp$NoRelatedSym$NoUnderlyings.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecListGrp$NoRelatedSym$NoUnderlyings.class
+END
+LegOrdGrp$NoLegs$NoLegAllocs.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/LegOrdGrp$NoLegs$NoLegAllocs.class
+END
+ListOrdGrp$NoOrders$NoInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ListOrdGrp$NoOrders$NoInstrumentParties.class
+END
+DlvyInstGrp$NoDlvyInst.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/DlvyInstGrp$NoDlvyInst.class
+END
+SideCrossOrdCxlGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SideCrossOrdCxlGrp.class
+END
+QuotReqGrp$NoRelatedSym$NoPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqGrp$NoRelatedSym$NoPartyIDs.class
+END
+CompIDStatGrp$NoCompIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/CompIDStatGrp$NoCompIDs.class
+END
+DisplayInstruction.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/DisplayInstruction.class
+END
+UnderlyingInstrument$NoUnderlyingStips.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UnderlyingInstrument$NoUnderlyingStips.class
+END
+QuotQualGrp$NoQuoteQualifiers.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotQualGrp$NoQuoteQualifiers.class
+END
+TrdCapRptSideGrp$NoSides$NoSideTrdRegTS.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptSideGrp$NoSides$NoSideTrdRegTS.class
+END
+TrdCapRptAckSideGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptAckSideGrp.class
+END
+PreAllocGrp$NoAllocs.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/PreAllocGrp$NoAllocs.class
+END
+AllocGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/AllocGrp.class
+END
+InstrmtMDReqGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtMDReqGrp.class
+END
+SecAltIDGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecAltIDGrp.class
+END
+Parties$NoPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/Parties$NoPartyIDs.class
+END
+ListOrdGrp$NoOrders$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ListOrdGrp$NoOrders$NoUnderlyings$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+END
+CommissionData.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/CommissionData.class
+END
+UndInstrmtStrkPxGrp$NoUnderlyings$NoUnderlyingStips.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndInstrmtStrkPxGrp$NoUnderlyings$NoUnderlyingStips.class
+END
+QuotSetGrp$NoQuoteSets$NoUnderlyingSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetGrp$NoQuoteSets$NoUnderlyingSecurityAltID.class
+END
+QuotSetGrp$NoQuoteSets$NoUndlyInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetGrp$NoQuoteSets$NoUndlyInstrumentParties.class
+END
+QuotReqRjctGrp$NoRelatedSym$NoPartyIDs$NoPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqRjctGrp$NoRelatedSym$NoPartyIDs$NoPartySubIDs.class
+END
+RFQReqGrp$NoRelatedSym$NoUnderlyings$NoUnderlyingStips.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RFQReqGrp$NoRelatedSym$NoUnderlyings$NoUnderlyingStips.class
+END
+ListOrdGrp$NoOrders$NoUnderlyings.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ListOrdGrp$NoOrders$NoUnderlyings.class
+END
+SecListGrp$NoRelatedSym$NoInstrAttrib.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecListGrp$NoRelatedSym$NoInstrAttrib.class
+END
+TrdCapRptSideGrp$NoSides$NoPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptSideGrp$NoSides$NoPartyIDs.class
+END
+TrdCapRptAckSideGrp$NoSides$NoContAmts.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptAckSideGrp$NoSides$NoContAmts.class
+END
+QuotSetAckGrp$NoQuoteSets.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetAckGrp$NoQuoteSets.class
+END
+InstrmtLegIOIGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtLegIOIGrp.class
+END
+AllocGrp$NoAllocs$NoDlvyInst$NoSettlPartyIDs$NoSettlPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/AllocGrp$NoAllocs$NoDlvyInst$NoSettlPartyIDs$NoSettlPartySubIDs.class
+END
+SecLstUpdRelSymGrp$NoRelatedSym$NoUnderlyingStips.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecLstUpdRelSymGrp$NoRelatedSym$NoUnderlyingStips.class
+END
+TrdCollGrp$NoTrades.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCollGrp$NoTrades.class
+END
+ListOrdGrp$NoOrders$NoUnderlyings$NoUnderlyingStips.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ListOrdGrp$NoOrders$NoUnderlyings$NoUnderlyingStips.class
+END
+QuotSetGrp$NoQuoteSets$NoQuoteEntries$NoSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetGrp$NoQuoteSets$NoQuoteEntries$NoSecurityAltID.class
+END
+UndlyInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndlyInstrumentParties.class
+END
+CpctyConfGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/CpctyConfGrp.class
+END
+Instrument$NoSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/Instrument$NoSecurityAltID.class
+END
+TrdRegTimestamps.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdRegTimestamps.class
+END
+PreAllocMlegGrp$NoAllocs$NoNested3PartyIDs$NoNested3PartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/PreAllocMlegGrp$NoAllocs$NoNested3PartyIDs$NoNested3PartySubIDs.class
+END
+SettlInstructionsData$NoDlvyInst.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SettlInstructionsData$NoDlvyInst.class
+END
+QuotSetAckGrp$NoQuoteSets$NoQuoteEntries$NoLegs.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetAckGrp$NoQuoteSets$NoQuoteEntries$NoLegs.class
+END
+InstrmtMDReqGrp$NoRelatedSym$NoSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtMDReqGrp$NoRelatedSym$NoSecurityAltID.class
+END
+LegQuotStatGrp$NoLegs.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/LegQuotStatGrp$NoLegs.class
+END
+QuotReqGrp$NoRelatedSym$NoSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqGrp$NoRelatedSym$NoSecurityAltID.class
+END
+UndInstrmtGrp$NoUnderlyings$NoUnderlyingSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndInstrmtGrp$NoUnderlyings$NoUnderlyingSecurityAltID.class
+END
+BidCompRspGrp$NoBidComponents.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/BidCompRspGrp$NoBidComponents.class
+END
+QuotReqRjctGrp$NoRelatedSym$NoLegs.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqRjctGrp$NoRelatedSym$NoLegs.class
+END
+ListOrdGrp$NoOrders$NoUnderlyings$NoUndlyInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ListOrdGrp$NoOrders$NoUnderlyings$NoUndlyInstrumentParties.class
+END
+MDIncGrp$NoMDEntries.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MDIncGrp$NoMDEntries.class
+END
+PosUndInstrmtGrp$NoUnderlyings$NoUnderlyingAmounts.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/PosUndInstrmtGrp$NoUnderlyings$NoUnderlyingAmounts.class
+END
+TrdCollGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCollGrp.class
+END
+AttrbGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/AttrbGrp.class
+END
+QuotSetAckGrp$NoQuoteSets$NoQuoteEntries$NoInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetAckGrp$NoQuoteSets$NoQuoteEntries$NoInstrumentParties.class
+END
+QuotSetAckGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetAckGrp.class
+END
+QuotCxlEntriesGrp$NoQuoteEntries.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotCxlEntriesGrp$NoQuoteEntries.class
+END
+InstrmtLegExecGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtLegExecGrp.class
+END
+PositionQty$NoPositions$NoNestedPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/PositionQty$NoPositions$NoNestedPartyIDs.class
+END
+UndInstrmtGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndInstrmtGrp.class
+END
+ExecAllocGrp$NoExecs.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ExecAllocGrp$NoExecs.class
+END
+SideCrossOrdModGrp$NoSides$NoPartyIDs$NoPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SideCrossOrdModGrp$NoSides$NoPartyIDs$NoPartySubIDs.class
+END
+InstrmtLegExecGrp$NoLegs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtLegExecGrp$NoLegs$NoNestedPartyIDs$NoNestedPartySubIDs.class
+END
+InstrmtMDReqGrp$NoRelatedSym$NoUnderlyings$NoUnderlyingSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtMDReqGrp$NoRelatedSym$NoUnderlyings$NoUnderlyingSecurityAltID.class
+END
+TrdCapRptSideGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptSideGrp.class
+END
+SecListGrp$NoRelatedSym$NoLegs$NoLegStipulations.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecListGrp$NoRelatedSym$NoLegs$NoLegStipulations.class
+END
+UnderlyingInstrument$NoUnderlyingSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UnderlyingInstrument$NoUnderlyingSecurityAltID.class
+END
+QuotReqRjctGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqRjctGrp.class
+END
+OrdAllocGrp$NoOrders$NoNested2PartyIDs$NoNested2PartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/OrdAllocGrp$NoOrders$NoNested2PartyIDs$NoNested2PartySubIDs.class
+END
+StrategyParametersGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/StrategyParametersGrp.class
+END
+ListOrdGrp$NoOrders$NoPartyIDs$NoPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ListOrdGrp$NoOrders$NoPartyIDs$NoPartySubIDs.class
+END
+InstrmtMDReqGrp$NoRelatedSym$NoUnderlyings$NoUndlyInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtMDReqGrp$NoRelatedSym$NoUnderlyings$NoUndlyInstrumentParties.class
+END
+DlvyInstGrp$NoDlvyInst$NoSettlPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/DlvyInstGrp$NoDlvyInst$NoSettlPartyIDs.class
+END
+InstrumentExtension$NoInstrAttrib.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrumentExtension$NoInstrAttrib.class
+END
+InstrmtLegGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtLegGrp.class
+END
+ExpirationQty$NoExpiration.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ExpirationQty$NoExpiration.class
+END
+PositionAmountData$NoPosAmt.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/PositionAmountData$NoPosAmt.class
+END
+UndInstrmtStrkPxGrp$NoUnderlyings$NoUnderlyingSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndInstrmtStrkPxGrp$NoUnderlyings$NoUnderlyingSecurityAltID.class
+END
+QuotSetGrp$NoQuoteSets$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetGrp$NoQuoteSets$NoUndlyInstrumentParties$NoUndlyInstrumentPartySubIDs.class
+END
+InstrmtGrp$NoRelatedSym$NoEvents.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtGrp$NoRelatedSym$NoEvents.class
+END
+RFQReqGrp$NoRelatedSym$NoUnderlyings$NoUnderlyingSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RFQReqGrp$NoRelatedSym$NoUnderlyings$NoUnderlyingSecurityAltID.class
+END
+CompIDReqGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/CompIDReqGrp.class
+END
+AllocAckGrp$NoAllocs.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/AllocAckGrp$NoAllocs.class
+END
+BidCompReqGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/BidCompReqGrp.class
+END
+DlvyInstGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/DlvyInstGrp.class
+END
+QuotReqGrp$NoRelatedSym$NoLegs$NoNestedPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqGrp$NoRelatedSym$NoLegs$NoNestedPartyIDs.class
+END
+MDRjctGrp$NoAltMDSource.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MDRjctGrp$NoAltMDSource.class
+END
+UndInstrmtStrkPxGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndInstrmtStrkPxGrp.class
+END
+RFQReqGrp$NoRelatedSym.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/RFQReqGrp$NoRelatedSym.class
+END
+QuotSetGrp$NoQuoteSets$NoQuoteEntries$NoInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetGrp$NoQuoteSets$NoQuoteEntries$NoInstrumentParties.class
+END
+QuotSetAckGrp$NoQuoteSets$NoUnderlyingSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetAckGrp$NoQuoteSets$NoUnderlyingSecurityAltID.class
+END
+SecListGrp$NoRelatedSym$NoLegs.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecListGrp$NoRelatedSym$NoLegs.class
+END
+SettlInstGrp$NoSettlInst.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SettlInstGrp$NoSettlInst.class
+END
+MDIncGrp$NoMDEntries$NoUnderlyings.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/MDIncGrp$NoMDEntries$NoUnderlyings.class
+END
+TriggeringInstruction.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TriggeringInstruction.class
+END
+ListOrdGrp$NoOrders.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/ListOrdGrp$NoOrders.class
+END
+UndSecAltIDGrp$NoUnderlyingSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndSecAltIDGrp$NoUnderlyingSecurityAltID.class
+END
+QuotReqGrp$NoRelatedSym$NoInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqGrp$NoRelatedSym$NoInstrumentParties.class
+END
+SecListGrp$NoRelatedSym$NoSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecListGrp$NoRelatedSym$NoSecurityAltID.class
+END
+SecLstUpdRelSymGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecLstUpdRelSymGrp.class
+END
+UndInstrmtCollGrp$NoUnderlyings$NoUnderlyingStips.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/UndInstrmtCollGrp$NoUnderlyings$NoUnderlyingStips.class
+END
+QuotQualGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotQualGrp.class
+END
+InstrmtGrp$NoRelatedSym$NoSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/InstrmtGrp$NoRelatedSym$NoSecurityAltID.class
+END
+QuotSetGrp$NoQuoteSets$NoQuoteEntries$NoInstrumentParties$NoInstrumentPartySubIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotSetGrp$NoQuoteSets$NoQuoteEntries$NoInstrumentParties$NoInstrumentPartySubIDs.class
+END
+QuotReqGrp.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqGrp.class
+END
+TrdCapRptAckSideGrp$NoSides$NoPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/TrdCapRptAckSideGrp$NoSides$NoPartyIDs.class
+END
+QuotReqGrp$NoRelatedSym$NoStipulations.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/QuotReqGrp$NoRelatedSym$NoStipulations.class
+END
+SecLstUpdRelSymGrp$NoRelatedSym$NoUndlyInstrumentParties.class
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SecLstUpdRelSymGrp$NoRelatedSym$NoUndlyInstrumentParties.class
+END
+SettlInstructionsData$NoDlvyInst$NoSettlPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix50/component/SettlInstructionsData$NoDlvyInst$NoSettlPartyIDs.class
+END

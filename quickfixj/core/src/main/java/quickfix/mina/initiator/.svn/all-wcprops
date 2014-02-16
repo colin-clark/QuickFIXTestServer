@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/mina/initiator
+END
+IoSessionInitiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/mina/initiator/IoSessionInitiator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/mina/initiator/package.html
+END
+AbstractSocketInitiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/mina/initiator/AbstractSocketInitiator.java
+END
+InitiatorIoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/mina/initiator/InitiatorIoHandler.java
+END

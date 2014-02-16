@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/mina/acceptor
+END
+DynamicAcceptorSessionProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/mina/acceptor/DynamicAcceptorSessionProviderTest.java
+END
+AcceptorIoHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/mina/acceptor/AcceptorIoHandlerTest.java
+END

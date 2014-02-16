@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix
+END
+SocketInitiatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/SocketInitiatorTest.java
+END
+SessionStateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/SessionStateTest.java
+END
+FieldTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/FieldTest.java
+END
+SessionSettingsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/SessionSettingsTest.java
+END
+ScreenLogTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/ScreenLogTest.java
+END
+ApiCompatibilityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/ApiCompatibilityTest.java
+END
+JdbcLogLegacyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/JdbcLogLegacyTest.java
+END
+JdbcTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/JdbcTestSupport.java
+END
+SerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/SerializationTest.java
+END
+MockSystemTimeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/MockSystemTimeSource.java
+END
+ExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/ExceptionTest.java
+END
+JdbcStoreLegacyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/JdbcStoreLegacyTest.java
+END
+SessionScheduleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/SessionScheduleTest.java
+END
+MessageUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/MessageUtilsTest.java
+END
+JdbcLogTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/JdbcLogTest.java
+END
+BigDecimalFieldTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/BigDecimalFieldTest.java
+END
+FileLogTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/FileLogTest.java
+END
+MessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/MessageTest.java
+END
+LogUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/LogUtilTest.java
+END
+JdbcStoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/JdbcStoreTest.java
+END
+FileStoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/FileStoreTest.java
+END
+DayConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/DayConverterTest.java
+END
+DefaultMessageFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/DefaultMessageFactoryTest.java
+END
+CachedFileStoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/CachedFileStoreTest.java
+END
+SLF4JLogTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/SLF4JLogTest.java
+END
+MessageCrackerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/MessageCrackerTest.java
+END
+DataDictionaryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/DataDictionaryTest.java
+END
+MemoryStoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/MemoryStoreTest.java
+END
+FileUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/FileUtilTest.java
+END
+CompositeLogTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/CompositeLogTest.java
+END
+AbstractMessageStoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/AbstractMessageStoreTest.java
+END
+ListenerSupportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/ListenerSupportTest.java
+END
+LoginTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/LoginTestCase.java
+END
+DummySLF4JLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/DummySLF4JLogger.java
+END
+RepeatingGroupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/RepeatingGroupTest.java
+END
+SessionFactoryTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/SessionFactoryTestSupport.java
+END
+SessionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/SessionTest.java
+END
+DictionaryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/DictionaryTest.java
+END
+DefaultSessionFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/DefaultSessionFactoryTest.java
+END
+DefaultDataDictionaryProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/DefaultDataDictionaryProviderTest.java
+END
+SessionIDTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/SessionIDTest.java
+END
+SleepycatStoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/SleepycatStoreTest.java
+END
+FieldConvertersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/FieldConvertersTest.java
+END
+FileStoreZeroMemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/FileStoreZeroMemTest.java
+END
+UnitTestApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/UnitTestApplication.java
+END
+FileStoreLowMemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/FileStoreLowMemTest.java
+END
+MultiAcceptorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/MultiAcceptorTest.java
+END
+FieldMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/FieldMapTest.java
+END

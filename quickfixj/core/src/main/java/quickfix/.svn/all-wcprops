@@ -1,0 +1,593 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix
+END
+DoNotSend.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/DoNotSend.java
+END
+CompositeLogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/CompositeLogFactory.java
+END
+DateField.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/DateField.java
+END
+MessageUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/MessageUtils.java
+END
+FieldNotFound.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/FieldNotFound.java
+END
+SLF4JLogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/SLF4JLogFactory.java
+END
+UtcTimeStampField.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/UtcTimeStampField.java
+END
+ThreadedSocketAcceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/ThreadedSocketAcceptor.java
+END
+JdbcStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/JdbcStore.java
+END
+CachedFileStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/CachedFileStore.java
+END
+MessageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/MessageFactory.java
+END
+SLF4JLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/SLF4JLog.java
+END
+MemoryStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/MemoryStore.java
+END
+CompositeLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/CompositeLog.java
+END
+SystemTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/SystemTime.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/Session.java
+END
+SessionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/SessionFactory.java
+END
+FieldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/FieldType.java
+END
+DefaultDataDictionaryProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/DefaultDataDictionaryProvider.java
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/Application.java
+END
+FixVersions.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/FixVersions.java
+END
+InvalidMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/InvalidMessage.java
+END
+RuntimeError.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/RuntimeError.java
+END
+LocationAwareLogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/LocationAwareLogFactory.java
+END
+SessionStateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/SessionStateListener.java
+END
+Initiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/Initiator.java
+END
+FieldConvertError.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/FieldConvertError.java
+END
+SleepycatStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/SleepycatStore.java
+END
+Acceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/Acceptor.java
+END
+DecimalField.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/DecimalField.java
+END
+StringField.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/StringField.java
+END
+CharField.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/CharField.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/Log.java
+END
+JdbcStoreFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/JdbcStoreFactory.java
+END
+RejectLogon.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/RejectLogon.java
+END
+UnsupportedVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/UnsupportedVersion.java
+END
+Responder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/Responder.java
+END
+FileLogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/FileLogFactory.java
+END
+ApplicationAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/ApplicationAdapter.java
+END
+JdbcUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/JdbcUtil.java
+END
+UtcTimeOnlyField.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/UtcTimeOnlyField.java
+END
+IncorrectTagValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/IncorrectTagValue.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/Field.java
+END
+SessionSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/SessionSettings.java
+END
+ScreenLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/ScreenLog.java
+END
+SystemTimeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/SystemTimeSource.java
+END
+MessageComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/MessageComponent.java
+END
+JdbcSetting.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/JdbcSetting.java
+END
+ThreadedSocketInitiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/ThreadedSocketInitiator.java
+END
+BooleanField.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/BooleanField.java
+END
+ScreenLogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/ScreenLogFactory.java
+END
+BusinessRejectReasonText.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/BusinessRejectReasonText.java
+END
+BytesField.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/BytesField.java
+END
+SessionSchedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/SessionSchedule.java
+END
+Connector.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/Connector.java
+END
+UnsupportedMessageType.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/UnsupportedMessageType.java
+END
+IntField.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/IntField.java
+END
+JdbcLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/JdbcLog.java
+END
+FileLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/FileLog.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/Message.java
+END
+CachedFileStoreFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/CachedFileStoreFactory.java
+END
+LogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/LogFactory.java
+END
+ConfigError.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/ConfigError.java
+END
+LogUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/LogUtil.java
+END
+FileStoreFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/FileStoreFactory.java
+END
+FileStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/FileStore.java
+END
+DayConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/DayConverter.java
+END
+DefaultMessageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/DefaultMessageFactory.java
+END
+JdbcLogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/JdbcLogFactory.java
+END
+MessageCracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/MessageCracker.java
+END
+DataDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/DataDictionary.java
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/Group.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/FileUtil.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/package.html
+END
+UtcDateOnlyField.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/UtcDateOnlyField.java
+END
+ListenerSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/ListenerSupport.java
+END
+MessageStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/MessageStore.java
+END
+NoTagValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/NoTagValue.java
+END
+Dictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/Dictionary.java
+END
+FieldException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/FieldException.java
+END
+DefaultSessionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/DefaultSessionFactory.java
+END
+SessionID.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/SessionID.java
+END
+DataDictionaryProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/DataDictionaryProvider.java
+END
+MessageStoreFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/MessageStoreFactory.java
+END
+MemoryStoreFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/MemoryStoreFactory.java
+END
+DoubleField.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/DoubleField.java
+END
+ApplicationExtended.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/ApplicationExtended.java
+END
+SessionRejectReasonText.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/SessionRejectReasonText.java
+END
+IncorrectDataFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/IncorrectDataFormat.java
+END
+SessionNotFound.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/SessionNotFound.java
+END
+AbstractLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/AbstractLog.java
+END
+FieldMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/FieldMap.java
+END
+SocketAcceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/SocketAcceptor.java
+END
+SleepycatStoreFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/SleepycatStoreFactory.java
+END
+MessageParseError.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/MessageParseError.java
+END
+SocketInitiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/SocketInitiator.java
+END
+SessionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/SessionState.java
+END
+SessionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/quickfix/SessionException.java
+END

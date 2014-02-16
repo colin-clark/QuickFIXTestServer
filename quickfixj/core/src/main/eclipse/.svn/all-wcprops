@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/eclipse
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/eclipse/README.txt
+END
+QFJ Order Executor.launch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/eclipse/QFJ%20Order%20Executor.launch
+END
+formatter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/eclipse/formatter.xml
+END
+QFJ Banzai.launch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/eclipse/QFJ%20Banzai.launch
+END
+codetemplates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/eclipse/codetemplates.xml
+END
+QFJ Order Matcher.launch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/eclipse/QFJ%20Order%20Matcher.launch
+END
+Generate FIX Messages.launch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/eclipse/Generate%20FIX%20Messages.launch
+END

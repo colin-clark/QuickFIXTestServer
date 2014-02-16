@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fixt11/component
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fixt11/component/package.html
+END
+HopGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fixt11/component/HopGrp.java
+END
+MsgTypeGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fixt11/component/MsgTypeGrp.java
+END

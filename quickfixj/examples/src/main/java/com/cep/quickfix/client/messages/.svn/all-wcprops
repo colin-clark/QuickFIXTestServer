@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/src/main/java/com/cep/quickfix/client/messages
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/src/main/java/com/cep/quickfix/client/messages/Order.java
+END
+Execution.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/src/main/java/com/cep/quickfix/client/messages/Execution.java
+END
+OrderType.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/src/main/java/com/cep/quickfix/client/messages/OrderType.java
+END
+OrderSide.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/src/main/java/com/cep/quickfix/client/messages/OrderSide.java
+END
+OrderTIF.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/src/main/java/com/cep/quickfix/client/messages/OrderTIF.java
+END

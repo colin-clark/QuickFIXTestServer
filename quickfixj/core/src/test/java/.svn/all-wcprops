@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java
+END
+test.cert
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/test.cert
+END
+LoginTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/LoginTestCase.java
+END
+test.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/test.cfg
+END
+test-client.cert
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/test-client.cert
+END
+FIX44_Custom_Test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/FIX44_Custom_Test.xml
+END

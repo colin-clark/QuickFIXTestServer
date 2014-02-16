@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix43/component
+END
+Instrument$NoSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix43/component/Instrument$NoSecurityAltID.class
+END
+UnderlyingInstrument$NoUnderlyingSecurityAltID.class
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix43/component/UnderlyingInstrument$NoUnderlyingSecurityAltID.class
+END
+YieldData.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix43/component/YieldData.class
+END
+Instrument.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix43/component/Instrument.class
+END
+Stipulations.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix43/component/Stipulations.class
+END
+OrderQtyData.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix43/component/OrderQtyData.class
+END
+SpreadOrBenchmarkCurveData.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix43/component/SpreadOrBenchmarkCurveData.class
+END
+Parties$NoPartyIDs.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix43/component/Parties$NoPartyIDs.class
+END
+Parties.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix43/component/Parties.class
+END
+UnderlyingInstrument.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix43/component/UnderlyingInstrument.class
+END
+Stipulations$NoStipulations.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix43/component/Stipulations$NoStipulations.class
+END
+CommissionData.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/fix43/component/CommissionData.class
+END

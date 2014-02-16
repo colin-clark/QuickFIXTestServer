@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix43/component
+END
+NestedParties.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix43/component/NestedParties.java
+END
+Stipulations.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix43/component/Stipulations.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix43/component/package.html
+END
+InstrumentLeg.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix43/component/InstrumentLeg.java
+END
+YieldData.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix43/component/YieldData.java
+END
+Instrument.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix43/component/Instrument.java
+END
+CommissionData.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix43/component/CommissionData.java
+END
+Parties.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix43/component/Parties.java
+END
+UnderlyingInstrument.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix43/component/UnderlyingInstrument.java
+END
+OrderQtyData.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix43/component/OrderQtyData.java
+END
+SpreadOrBenchmarkCurveData.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix43/component/SpreadOrBenchmarkCurveData.java
+END

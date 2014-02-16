@@ -1,0 +1,46 @@
+10
+
+dir
+1306
+https://svn.codespaces.com/CloudEventProcessing/DarkStar/QuickFIXJ/core/src/main
+https://svn.codespaces.com/CloudEventProcessing/DarkStar
+
+
+
+2011-06-14T17:14:03.219468Z
+1
+mwolters
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+992135d0-02ca-4b9c-849d-9936c9e2da70
+
+config
+dir
+
+doc
+dir
+
+eclipse
+dir
+
+java
+dir
+
+lib
+dir
+
+resources
+dir
+

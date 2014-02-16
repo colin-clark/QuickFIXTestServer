@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/CloudEventProcessing/DarkStar/!svn/ver/416/QuickFIXJ/lib
+END
+mina-core-1.1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/lib/mina-core-1.1.0.jar
+END
+DarkStarCore.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/CloudEventProcessing/DarkStar/!svn/ver/24/QuickFIXJ/lib/DarkStarCore.jar
+END
+libthrift-0.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CloudEventProcessing/DarkStar/!svn/ver/416/QuickFIXJ/lib/libthrift-0.6.jar
+END
+quickfixj-msg-fix40.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/lib/quickfixj-msg-fix40.jar
+END
+guava-r08.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CloudEventProcessing/DarkStar/!svn/ver/416/QuickFIXJ/lib/guava-r08.jar
+END
+quickfixj-msg-fix41.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/lib/quickfixj-msg-fix41.jar
+END
+quickfixj-msg-fix42.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/lib/quickfixj-msg-fix42.jar
+END
+quickfixj-msg-fix43.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/lib/quickfixj-msg-fix43.jar
+END
+quickfixj-msg-fix44.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/lib/quickfixj-msg-fix44.jar
+END
+hector-core-0.7.0-30.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/CloudEventProcessing/DarkStar/!svn/ver/416/QuickFIXJ/lib/hector-core-0.7.0-30.jar
+END
+cassandra-all-0.7.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CloudEventProcessing/DarkStar/!svn/ver/416/QuickFIXJ/lib/cassandra-all-0.7.8.jar
+END

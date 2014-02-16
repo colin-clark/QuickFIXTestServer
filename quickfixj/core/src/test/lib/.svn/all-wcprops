@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/lib
+END
+easymock-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/lib/easymock-1.1.jar
+END
+junit-4.5-src.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/lib/junit-4.5-src.jar
+END
+hsqldb-1.8.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/lib/hsqldb-1.8.0.jar
+END
+mockito-all-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/lib/mockito-all-1.4.jar
+END
+jsch-0.1.21.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/lib/jsch-0.1.21.jar
+END
+tyrex-1.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/lib/tyrex-1.0.3.jar
+END
+junit-4.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/lib/junit-4.5.jar
+END
+hamcrest-all-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/lib/hamcrest-all-1.1.jar
+END
+quickfix-jni-version.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/lib/quickfix-jni-version.txt
+END
+quickfix-jni.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/lib/quickfix-jni.jar
+END
+junit-3.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/lib/junit-3.8.1.jar
+END

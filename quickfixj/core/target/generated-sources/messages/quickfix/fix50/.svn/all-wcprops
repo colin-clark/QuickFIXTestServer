@@ -1,0 +1,587 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50
+END
+TradeCaptureReportRequestAck.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/TradeCaptureReportRequestAck.java
+END
+ListStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/ListStatus.java
+END
+SecurityDefinitionUpdateReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/SecurityDefinitionUpdateReport.java
+END
+OrderStatusRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/OrderStatusRequest.java
+END
+AllocationInstructionAlert.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/AllocationInstructionAlert.java
+END
+SettlementInstructions.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/SettlementInstructions.java
+END
+ExecutionReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/ExecutionReport.java
+END
+UserResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/UserResponse.java
+END
+DerivativeSecurityListRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/DerivativeSecurityListRequest.java
+END
+MassQuote.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/MassQuote.java
+END
+TradingSessionStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/TradingSessionStatus.java
+END
+OrderCancelRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/OrderCancelRequest.java
+END
+BusinessMessageReject.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/BusinessMessageReject.java
+END
+Advertisement.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/Advertisement.java
+END
+OrderCancelReplaceRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/OrderCancelReplaceRequest.java
+END
+MessageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/MessageFactory.java
+END
+MultilegOrderCancelReplace.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/MultilegOrderCancelReplace.java
+END
+ListStatusRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/ListStatusRequest.java
+END
+PositionReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/PositionReport.java
+END
+SecurityDefinitionRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/SecurityDefinitionRequest.java
+END
+SecurityListUpdateReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/SecurityListUpdateReport.java
+END
+OrderMassStatusRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/OrderMassStatusRequest.java
+END
+ConfirmationRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/ConfirmationRequest.java
+END
+CollateralResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/CollateralResponse.java
+END
+CollateralRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/CollateralRequest.java
+END
+ListCancelRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/ListCancelRequest.java
+END
+QuoteCancel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/QuoteCancel.java
+END
+Confirmation.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/Confirmation.java
+END
+TradingSessionList.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/TradingSessionList.java
+END
+QuoteRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/QuoteRequest.java
+END
+OrderMassCancelRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/OrderMassCancelRequest.java
+END
+SecurityStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/SecurityStatus.java
+END
+BidRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/BidRequest.java
+END
+RequestForPositions.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/RequestForPositions.java
+END
+OrderMassCancelReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/OrderMassCancelReport.java
+END
+AllocationInstruction.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/AllocationInstruction.java
+END
+OrderCancelReject.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/OrderCancelReject.java
+END
+DerivativeSecurityList.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/DerivativeSecurityList.java
+END
+UserRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/UserRequest.java
+END
+CrossOrderCancelReplaceRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/CrossOrderCancelReplaceRequest.java
+END
+NewOrderMultileg.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/NewOrderMultileg.java
+END
+ExecutionAcknowledgement.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/ExecutionAcknowledgement.java
+END
+MarketDataSnapshotFullRefresh.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/MarketDataSnapshotFullRefresh.java
+END
+QuoteStatusRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/QuoteStatusRequest.java
+END
+RegistrationInstructionsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/RegistrationInstructionsResponse.java
+END
+Confirmation_Ack.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/Confirmation_Ack.java
+END
+PositionMaintenanceReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/PositionMaintenanceReport.java
+END
+QuoteResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/QuoteResponse.java
+END
+SecurityStatusRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/SecurityStatusRequest.java
+END
+RequestForPositionsAck.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/RequestForPositionsAck.java
+END
+ContraryIntentionReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/ContraryIntentionReport.java
+END
+News.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/News.java
+END
+TradeCaptureReportAck.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/TradeCaptureReportAck.java
+END
+DontKnowTradeDK.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/DontKnowTradeDK.java
+END
+AdjustedPositionReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/AdjustedPositionReport.java
+END
+CollateralReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/CollateralReport.java
+END
+SettlementInstructionRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/SettlementInstructionRequest.java
+END
+MarketDataRequestReject.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/MarketDataRequestReject.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/Message.java
+END
+MarketDataIncrementalRefresh.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/MarketDataIncrementalRefresh.java
+END
+PositionMaintenanceRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/PositionMaintenanceRequest.java
+END
+CollateralAssignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/CollateralAssignment.java
+END
+IOI.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/IOI.java
+END
+QuoteStatusReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/QuoteStatusReport.java
+END
+MessageCracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/MessageCracker.java
+END
+BidResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/BidResponse.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/package.html
+END
+Email.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/Email.java
+END
+TradingSessionListRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/TradingSessionListRequest.java
+END
+ListStrikePrice.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/ListStrikePrice.java
+END
+ListExecute.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/ListExecute.java
+END
+TradeCaptureReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/TradeCaptureReport.java
+END
+AllocationReportAck.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/AllocationReportAck.java
+END
+SecurityDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/SecurityDefinition.java
+END
+NewOrderCross.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/NewOrderCross.java
+END
+RFQRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/RFQRequest.java
+END
+SecurityListRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/SecurityListRequest.java
+END
+CollateralInquiry.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/CollateralInquiry.java
+END
+NewOrderList.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/NewOrderList.java
+END
+MarketDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/MarketDataRequest.java
+END
+TradingSessionStatusRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/TradingSessionStatusRequest.java
+END
+CrossOrderCancelRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/CrossOrderCancelRequest.java
+END
+AssignmentReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/AssignmentReport.java
+END
+RegistrationInstructions.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/RegistrationInstructions.java
+END
+SecurityList.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/SecurityList.java
+END
+Quote.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/Quote.java
+END
+AllocationInstructionAck.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/AllocationInstructionAck.java
+END
+NetworkCounterpartySystemStatusResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/NetworkCounterpartySystemStatusResponse.java
+END
+CollateralInquiryAck.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/CollateralInquiryAck.java
+END
+TradeCaptureReportRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/TradeCaptureReportRequest.java
+END
+SecurityTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/SecurityTypes.java
+END
+NetworkCounterpartySystemStatusRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/NetworkCounterpartySystemStatusRequest.java
+END
+NewOrderSingle.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/NewOrderSingle.java
+END
+SecurityTypeRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/SecurityTypeRequest.java
+END
+AllocationReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/AllocationReport.java
+END
+MassQuoteAcknowledgement.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/MassQuoteAcknowledgement.java
+END
+QuoteRequestReject.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/QuoteRequestReject.java
+END

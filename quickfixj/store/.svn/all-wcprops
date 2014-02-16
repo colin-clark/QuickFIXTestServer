@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/store
+END
+FIX.4.2-EXEC-BANZAI.session
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/store/FIX.4.2-EXEC-BANZAI.session
+END
+FIX.4.2-EXEC-BANZAI.header
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/store/FIX.4.2-EXEC-BANZAI.header
+END
+FIX.4.2-EXEC-BANZAI.seqnums
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/store/FIX.4.2-EXEC-BANZAI.seqnums
+END
+FIX.4.2-EXEC-BANZAI.body
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/store/FIX.4.2-EXEC-BANZAI.body
+END

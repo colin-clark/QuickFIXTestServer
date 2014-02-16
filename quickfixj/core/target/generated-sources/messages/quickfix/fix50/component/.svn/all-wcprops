@@ -1,0 +1,737 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component
+END
+TrdSessLstGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/TrdSessLstGrp.java
+END
+InstrmtStrkPxGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/InstrmtStrkPxGrp.java
+END
+EvntGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/EvntGrp.java
+END
+NestedParties.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/NestedParties.java
+END
+MiscFeesGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/MiscFeesGrp.java
+END
+StrategyParametersGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/StrategyParametersGrp.java
+END
+SideCrossOrdCxlGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/SideCrossOrdCxlGrp.java
+END
+NestedParties2.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/NestedParties2.java
+END
+NstdPtys3SubGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/NstdPtys3SubGrp.java
+END
+LegPreAllocGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/LegPreAllocGrp.java
+END
+MDRjctGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/MDRjctGrp.java
+END
+UndlyInstrumentParties.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/UndlyInstrumentParties.java
+END
+UnderlyingInstrument.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/UnderlyingInstrument.java
+END
+TrdCapRptSideGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/TrdCapRptSideGrp.java
+END
+ExecsGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/ExecsGrp.java
+END
+LinesOfTextGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/LinesOfTextGrp.java
+END
+Stipulations.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/Stipulations.java
+END
+InstrmtLegIOIGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/InstrmtLegIOIGrp.java
+END
+UndInstrmtStrkPxGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/UndInstrmtStrkPxGrp.java
+END
+NstdPtysSubGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/NstdPtysSubGrp.java
+END
+SecListGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/SecListGrp.java
+END
+ClrInstGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/ClrInstGrp.java
+END
+CommissionData.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/CommissionData.java
+END
+AttrbGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/AttrbGrp.java
+END
+BidCompReqGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/BidCompReqGrp.java
+END
+PreAllocGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/PreAllocGrp.java
+END
+OrdListStatGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/OrdListStatGrp.java
+END
+OrderQtyData.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/OrderQtyData.java
+END
+InstrmtGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/InstrmtGrp.java
+END
+InstrmtLegSecListGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/InstrmtLegSecListGrp.java
+END
+InstrmtMDReqGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/InstrmtMDReqGrp.java
+END
+OrdAllocGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/OrdAllocGrp.java
+END
+QuotSetGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/QuotSetGrp.java
+END
+QuotReqLegsGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/QuotReqLegsGrp.java
+END
+SettlParties.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/SettlParties.java
+END
+SecLstUpdRelSymGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/SecLstUpdRelSymGrp.java
+END
+SettlInstructionsData.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/SettlInstructionsData.java
+END
+PosUndInstrmtGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/PosUndInstrmtGrp.java
+END
+CompIDStatGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/CompIDStatGrp.java
+END
+Instrument.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/Instrument.java
+END
+QuotReqRjctGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/QuotReqRjctGrp.java
+END
+InstrumentLeg.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/InstrumentLeg.java
+END
+NestedParties3.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/NestedParties3.java
+END
+QuotEntryAckGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/QuotEntryAckGrp.java
+END
+TrdgSesGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/TrdgSesGrp.java
+END
+SideTrdRegTS.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/SideTrdRegTS.java
+END
+ContraGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/ContraGrp.java
+END
+NstdPtys2SubGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/NstdPtys2SubGrp.java
+END
+QuotCxlEntriesGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/QuotCxlEntriesGrp.java
+END
+ExecAllocGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/ExecAllocGrp.java
+END
+MDReqGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/MDReqGrp.java
+END
+LegQuotStatGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/LegQuotStatGrp.java
+END
+UnderlyingStipulations.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/UnderlyingStipulations.java
+END
+UnderlyingAmount.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/UnderlyingAmount.java
+END
+TrdCollGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/TrdCollGrp.java
+END
+LegOrdGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/LegOrdGrp.java
+END
+PreAllocMlegGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/PreAllocMlegGrp.java
+END
+AllocGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/AllocGrp.java
+END
+ContAmtGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/ContAmtGrp.java
+END
+SecLstUpdRelSymsLegGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/SecLstUpdRelSymsLegGrp.java
+END
+LegQuotGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/LegQuotGrp.java
+END
+QuotQualGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/QuotQualGrp.java
+END
+PositionQty.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/PositionQty.java
+END
+DisplayInstruction.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/DisplayInstruction.java
+END
+TrdRegTimestamps.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/TrdRegTimestamps.java
+END
+InstrmtLegGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/InstrmtLegGrp.java
+END
+LegBenchmarkCurveData.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/LegBenchmarkCurveData.java
+END
+TrdCapDtGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/TrdCapDtGrp.java
+END
+UndSecAltIDGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/UndSecAltIDGrp.java
+END
+ExpirationQty.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/ExpirationQty.java
+END
+RootSubParties.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/RootSubParties.java
+END
+SettlInstGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/SettlInstGrp.java
+END
+RelSymDerivSecGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/RelSymDerivSecGrp.java
+END
+TrdInstrmtLegGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/TrdInstrmtLegGrp.java
+END
+PtysSubGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/PtysSubGrp.java
+END
+RgstDistInstGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/RgstDistInstGrp.java
+END
+BidCompRspGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/BidCompRspGrp.java
+END
+UndlyInstrumentPtysSubGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/UndlyInstrumentPtysSubGrp.java
+END
+RoutingGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/RoutingGrp.java
+END
+SettlPtysSubGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/SettlPtysSubGrp.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/package.html
+END
+HopGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/HopGrp.java
+END
+InstrumentExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/InstrumentExtension.java
+END
+AffectedOrdGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/AffectedOrdGrp.java
+END
+RgstDtlsGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/RgstDtlsGrp.java
+END
+CollInqQualGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/CollInqQualGrp.java
+END
+BidDescReqGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/BidDescReqGrp.java
+END
+SpreadOrBenchmarkCurveData.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/SpreadOrBenchmarkCurveData.java
+END
+CompIDReqGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/CompIDReqGrp.java
+END
+AllocAckGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/AllocAckGrp.java
+END
+QuotReqGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/QuotReqGrp.java
+END
+TrdCapRptAckSideGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/TrdCapRptAckSideGrp.java
+END
+FinancingDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/FinancingDetails.java
+END
+PositionAmountData.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/PositionAmountData.java
+END
+LegStipulations.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/LegStipulations.java
+END
+MsgTypeGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/MsgTypeGrp.java
+END
+InstrumentPtysSubGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/InstrumentPtysSubGrp.java
+END
+ExecCollGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/ExecCollGrp.java
+END
+CpctyConfGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/CpctyConfGrp.java
+END
+TriggeringInstruction.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/TriggeringInstruction.java
+END
+RFQReqGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/RFQReqGrp.java
+END
+LegSecAltIDGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/LegSecAltIDGrp.java
+END
+Parties.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/Parties.java
+END
+ListOrdGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/ListOrdGrp.java
+END
+RootParties.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/RootParties.java
+END
+DiscretionInstructions.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/DiscretionInstructions.java
+END
+MDFullGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/MDFullGrp.java
+END
+MDIncGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/MDIncGrp.java
+END
+InstrumentParties.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/InstrumentParties.java
+END
+UndInstrmtGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/UndInstrmtGrp.java
+END
+SecTypesGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/SecTypesGrp.java
+END
+QuotEntryGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/QuotEntryGrp.java
+END
+SideCrossOrdModGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/SideCrossOrdModGrp.java
+END
+InstrmtLegExecGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/InstrmtLegExecGrp.java
+END
+YieldData.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/YieldData.java
+END
+PegInstructions.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/PegInstructions.java
+END
+TrdAllocGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/TrdAllocGrp.java
+END
+QuotSetAckGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/QuotSetAckGrp.java
+END
+DlvyInstGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/DlvyInstGrp.java
+END
+IOIQualGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/IOIQualGrp.java
+END
+SecAltIDGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/SecAltIDGrp.java
+END
+UndInstrmtCollGrp.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/generated-sources/messages/quickfix/fix50/component/UndInstrmtCollGrp.java
+END

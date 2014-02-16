@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/org/quickfixj/jmx/mbean/session
+END
+SessionJmxExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/org/quickfixj/jmx/mbean/session/SessionJmxExporter.java
+END
+SessionAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/org/quickfixj/jmx/mbean/session/SessionAdmin.java
+END
+SessionSettingsAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/org/quickfixj/jmx/mbean/session/SessionSettingsAdmin.java
+END
+SessionAdminMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/org/quickfixj/jmx/mbean/session/SessionAdminMBean.java
+END

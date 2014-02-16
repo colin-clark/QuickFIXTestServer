@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40
+END
+14g_HeaderBodyTrailerFieldsOutOfOrder.def
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/14g_HeaderBodyTrailerFieldsOutOfOrder.def
+END
+7_ReceiveRejectMessage.def
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/7_ReceiveRejectMessage.def
+END
+8_AdminAndApplicationMessages.def
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/8_AdminAndApplicationMessages.def
+END
+2k_CompIDDoesNotMatchProfile.def
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/2k_CompIDDoesNotMatchProfile.def
+END
+2g_PossDupNoOrigSendingTime.def
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/2g_PossDupNoOrigSendingTime.def
+END
+19a_PossResendMessageThatHAsAlreadyBeenSent.def
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/19a_PossResendMessageThatHAsAlreadyBeenSent.def
+END
+2a_MsgSeqNumCorrect.def
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/2a_MsgSeqNumCorrect.def
+END
+3c_GarbledMessage.def
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/3c_GarbledMessage.def
+END
+11b_NewSeqNoEqual.def
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/11b_NewSeqNoEqual.def
+END
+20_SimultaneousResendRequest.def
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/20_SimultaneousResendRequest.def
+END
+1a_ValidLogonWithCorrectMsgSeqNum.def
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/1a_ValidLogonWithCorrectMsgSeqNum.def
+END
+2m_BodyLengthValueNotCorrect.def
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/2m_BodyLengthValueNotCorrect.def
+END
+11a_NewSeqNoGreater.def
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/11a_NewSeqNoGreater.def
+END
+2b_MsgSeqNumTooHigh.def
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/2b_MsgSeqNumTooHigh.def
+END
+RejectResentMessage.def
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/RejectResentMessage.def
+END
+2e_PossDupNotReceived.def
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/2e_PossDupNotReceived.def
+END
+10_MsgSeqNumLess.def
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/10_MsgSeqNumLess.def
+END
+2q_MsgTypeNotValid.def
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/2q_MsgTypeNotValid.def
+END
+1a_ValidLogonMsgSeqNumTooHigh.def
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/1a_ValidLogonMsgSeqNumTooHigh.def
+END
+1d_InvalidLogonWrongBeginString.def
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/1d_InvalidLogonWrongBeginString.def
+END
+2e_PossDupAlreadyReceived.def
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/2e_PossDupAlreadyReceived.def
+END
+2f_PossDupOrigSendingTimeTooHigh.def
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/2f_PossDupOrigSendingTimeTooHigh.def
+END
+14h_RepeatedTag.def
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/14h_RepeatedTag.def
+END
+8_OnlyAdminMessages.def
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/8_OnlyAdminMessages.def
+END
+1c_InvalidSenderCompID.def
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/1c_InvalidSenderCompID.def
+END
+8_OnlyApplicationMessages.def
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/8_OnlyApplicationMessages.def
+END
+3b_InvalidChecksum.def
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/3b_InvalidChecksum.def
+END
+14f_IncorrectDataFormat.def
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/14f_IncorrectDataFormat.def
+END
+14b_RequiredFieldMissing.def
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/14b_RequiredFieldMissing.def
+END
+4b_ReceivedTestRequest.def
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/4b_ReceivedTestRequest.def
+END
+1e_NotLogonMessage.def
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/1e_NotLogonMessage.def
+END
+6_SendTestRequest.def
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/6_SendTestRequest.def
+END
+19b_PossResendMessageThatHasNotBeenSent.def
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/19b_PossResendMessageThatHasNotBeenSent.def
+END
+10_MsgSeqNumEqual.def
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/10_MsgSeqNumEqual.def
+END
+2t_FirstThreeFieldsOutOfOrder.def
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/2t_FirstThreeFieldsOutOfOrder.def
+END
+4a_NoDataSentDuringHeartBtInt.def
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/4a_NoDataSentDuringHeartBtInt.def
+END
+2i_BeginStringValueUnexpected.def
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/2i_BeginStringValueUnexpected.def
+END
+10_MsgSeqNumGreater.def
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/10_MsgSeqNumGreater.def
+END
+2d_GarbledMessage.def
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/2d_GarbledMessage.def
+END
+11c_NewSeqNoLess.def
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/11c_NewSeqNoLess.def
+END
+14a_BadField.def
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/14a_BadField.def
+END
+1d_InvalidLogonLengthInvalid.def
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/1d_InvalidLogonLengthInvalid.def
+END
+AlreadyLoggedOn.def
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/AlreadyLoggedOn.def
+END
+2c_MsgSeqNumTooLow.def
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/2c_MsgSeqNumTooLow.def
+END
+1d_InvalidLogonBadSendingTime.def
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/1d_InvalidLogonBadSendingTime.def
+END
+1b_DuplicateIdentity.def
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/1b_DuplicateIdentity.def
+END
+14d_TagSpecifiedWithoutValue.def
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/14d_TagSpecifiedWithoutValue.def
+END
+ReverseRouteWithEmptyRoutingTags.def
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/ReverseRouteWithEmptyRoutingTags.def
+END
+13b_UnsolicitedLogoutMessage.def
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/13b_UnsolicitedLogoutMessage.def
+END
+2r_UnregisteredMsgType.def
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/2r_UnregisteredMsgType.def
+END
+15_HeaderAndBodyFieldsOrderedDifferently.def
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/15_HeaderAndBodyFieldsOrderedDifferently.def
+END
+14c_TagNotDefinedForMsgType.def
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/14c_TagNotDefinedForMsgType.def
+END
+2o_SendingTimeValueOutOfRange.def
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/2o_SendingTimeValueOutOfRange.def
+END
+1c_InvalidTargetCompID.def
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/1c_InvalidTargetCompID.def
+END
+ReverseRoute.def
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/ReverseRoute.def
+END
+14e_IncorrectEnumValue.def
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/test/acceptance/definitions/server/fix40/14e_IncorrectEnumValue.def
+END

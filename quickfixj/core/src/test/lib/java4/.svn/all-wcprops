@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/lib/java4
+END
+hamcrest-all-1.1-jdk14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/lib/java4/hamcrest-all-1.1-jdk14.jar
+END
+mockito-all-1.4-jdk14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/lib/java4/mockito-all-1.4-jdk14.jar
+END
+junit-3.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/lib/java4/junit-3.8.1.jar
+END

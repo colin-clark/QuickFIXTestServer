@@ -1,0 +1,37 @@
+10
+
+dir
+1306
+https://svn.codespaces.com/CloudEventProcessing/DarkStar/QuickFIXJ/examples/src/main/java/quickfix/examples
+https://svn.codespaces.com/CloudEventProcessing/DarkStar
+
+
+
+2011-06-14T17:14:03.219468Z
+1
+mwolters
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+992135d0-02ca-4b9c-849d-9936c9e2da70
+
+banzai
+dir
+
+executor
+dir
+
+ordermatch
+dir
+

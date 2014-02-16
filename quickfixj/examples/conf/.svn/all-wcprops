@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/conf
+END
+QFJClient.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/conf/QFJClient.cfg
+END
+QFJServer.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/conf/QFJServer.cfg
+END

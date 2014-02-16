@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/resources
+END
+test.cert
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/resources/test.cert
+END
+test.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/resources/test.cfg
+END
+test-client.cert
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/resources/test-client.cert
+END
+FIX44_Invalid_Test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/resources/FIX44_Invalid_Test.xml
+END
+FIX44_Custom_Test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/resources/FIX44_Custom_Test.xml
+END

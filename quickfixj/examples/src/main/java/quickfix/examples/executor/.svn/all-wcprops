@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/src/main/java/quickfix/examples/executor
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/src/main/java/quickfix/examples/executor/Application.java
+END
+executor_standby.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/src/main/java/quickfix/examples/executor/executor_standby.cfg
+END
+executor_dynamic.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/src/main/java/quickfix/examples/executor/executor_dynamic.cfg
+END
+MarketDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/src/main/java/quickfix/examples/executor/MarketDataProvider.java
+END
+executor.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/src/main/java/quickfix/examples/executor/executor.cfg
+END
+Executor.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/src/main/java/quickfix/examples/executor/Executor.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/lib/java4
+END
+backport-util-concurrent-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/lib/java4/backport-util-concurrent-3.0.jar
+END
+mina-core-1.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/lib/java4/mina-core-1.0.3.jar
+END
+slf4j-jdk14-1.5.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/lib/java4/slf4j-jdk14-1.5.3.jar
+END
+slf4j-api-1.5.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/lib/java4/slf4j-api-1.5.3.jar
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/acceptor
+END
+AcceptorIoHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/acceptor/AcceptorIoHandler.class
+END
+AbstractSocketAcceptor$StaticAcceptorSessionProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/acceptor/AbstractSocketAcceptor$StaticAcceptorSessionProvider.class
+END
+AcceptorSessionProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/acceptor/AcceptorSessionProvider.class
+END
+DynamicAcceptorSessionProvider$TemplateMapping.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/acceptor/DynamicAcceptorSessionProvider$TemplateMapping.class
+END
+DynamicAcceptorSessionProvider.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/acceptor/DynamicAcceptorSessionProvider.class
+END
+AbstractSocketAcceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/acceptor/AbstractSocketAcceptor.class
+END
+AbstractSocketAcceptor$AcceptorSocketDescriptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/quickfix/mina/acceptor/AbstractSocketAcceptor$AcceptorSocketDescriptor.class
+END

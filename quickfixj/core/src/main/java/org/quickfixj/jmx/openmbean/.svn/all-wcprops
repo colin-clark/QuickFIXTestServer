@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/org/quickfixj/jmx/openmbean
+END
+CompositeDataBeanAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/org/quickfixj/jmx/openmbean/CompositeDataBeanAdapter.java
+END
+CompositeDataFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/org/quickfixj/jmx/openmbean/CompositeDataFactory.java
+END
+CompositeTypeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/org/quickfixj/jmx/openmbean/CompositeTypeFactory.java
+END
+TabularDataAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/java/org/quickfixj/jmx/openmbean/TabularDataAdapter.java
+END

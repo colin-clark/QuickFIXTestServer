@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/mina/message
+END
+ProtocolDecoderOutputForTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/mina/message/ProtocolDecoderOutputForTest.java
+END
+IoSessionStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/mina/message/IoSessionStub.java
+END
+FIXMessageEncoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/mina/message/FIXMessageEncoderTest.java
+END
+ProtocolEncoderOutputForTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/mina/message/ProtocolEncoderOutputForTest.java
+END
+FIXMessageDecoderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/mina/message/FIXMessageDecoderTest.java
+END
+FIXProtocolCodecFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/test/java/quickfix/mina/message/FIXProtocolCodecFactoryTest.java
+END

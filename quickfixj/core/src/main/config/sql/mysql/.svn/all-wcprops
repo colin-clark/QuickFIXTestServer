@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/config/sql/mysql
+END
+messages_log_table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/config/sql/mysql/messages_log_table.sql
+END
+mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/config/sql/mysql/mysql.sql
+END
+quickfix_database.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/config/sql/mysql/quickfix_database.sql
+END
+create.bat
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/config/sql/mysql/create.bat
+END
+create.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/config/sql/mysql/create.sh
+END
+messages_table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/config/sql/mysql/messages_table.sql
+END
+sessions_table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/config/sql/mysql/sessions_table.sql
+END
+event_log_table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/config/sql/mysql/event_log_table.sql
+END

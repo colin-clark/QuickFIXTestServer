@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/config/sql/postgresql
+END
+messages_log_table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/config/sql/postgresql/messages_log_table.sql
+END
+create.bat
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/config/sql/postgresql/create.bat
+END
+postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/config/sql/postgresql/postgresql.sql
+END
+create.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/config/sql/postgresql/create.sh
+END
+messages_table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/config/sql/postgresql/messages_table.sql
+END
+sessions_table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/config/sql/postgresql/sessions_table.sql
+END
+event_log_table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/src/main/config/sql/postgresql/event_log_table.sql
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/CloudEventProcessing/DarkStar/!svn/ver/416/QuickFIXJ
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/LICENSE
+END
+testserver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/testserver.jar
+END
+QFJServerbat.bat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/QFJServerbat.bat
+END
+QFJServer.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CloudEventProcessing/DarkStar/!svn/ver/416/QuickFIXJ/QFJServer.jar
+END
+QFJClient.bat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/QFJClient.bat
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/.project
+END
+QFJClient.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CloudEventProcessing/DarkStar/!svn/ver/416/QuickFIXJ/QFJClient.jar
+END
+jar-in-jar-loader.zip
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/jar-in-jar-loader.zip
+END
+Banzai.sbconf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/Banzai.sbconf
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/CloudEventProcessing/DarkStar/!svn/ver/416/QuickFIXJ/.classpath
+END
+module.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/module.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/CloudEventProcessing/DarkStar/!svn/ver/416/QuickFIXJ/build.xml
+END
+banzai.bat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/banzai.bat
+END
+User_Interface.launch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/User_Interface.launch
+END
+Order_Executor.launch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/Order_Executor.launch
+END

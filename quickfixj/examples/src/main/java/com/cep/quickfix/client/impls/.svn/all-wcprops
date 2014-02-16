@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/CloudEventProcessing/DarkStar/!svn/ver/416/QuickFIXJ/examples/src/main/java/com/cep/quickfix/client/impls
+END
+QFJClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/CloudEventProcessing/DarkStar/!svn/ver/393/QuickFIXJ/examples/src/main/java/com/cep/quickfix/client/impls/QFJClient.java
+END
+QFJClientApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/CloudEventProcessing/DarkStar/!svn/ver/393/QuickFIXJ/examples/src/main/java/com/cep/quickfix/client/impls/QFJClientApplication.java
+END
+NoopMessageProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/src/main/java/com/cep/quickfix/client/impls/NoopMessageProcessor.java
+END
+DefaultConsistencyLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/CloudEventProcessing/DarkStar/!svn/ver/416/QuickFIXJ/examples/src/main/java/com/cep/quickfix/client/impls/DefaultConsistencyLevel.java
+END
+FIXMsgsToRabbit.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/CloudEventProcessing/DarkStar/!svn/ver/416/QuickFIXJ/examples/src/main/java/com/cep/quickfix/client/impls/FIXMsgsToRabbit.java
+END
+QFJClient.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/examples/src/main/java/com/cep/quickfix/client/impls/QFJClient.cfg
+END
+TestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/CloudEventProcessing/DarkStar/!svn/ver/393/QuickFIXJ/examples/src/main/java/com/cep/quickfix/client/impls/TestFactory.java
+END
+TestSpecificQFJClientApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/CloudEventProcessing/DarkStar/!svn/ver/393/QuickFIXJ/examples/src/main/java/com/cep/quickfix/client/impls/TestSpecificQFJClientApplication.java
+END

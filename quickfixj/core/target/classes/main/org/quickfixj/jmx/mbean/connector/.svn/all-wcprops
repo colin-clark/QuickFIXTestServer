@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/org/quickfixj/jmx/mbean/connector
+END
+ConnectorJmxExporter.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/org/quickfixj/jmx/mbean/connector/ConnectorJmxExporter.class
+END
+SocketInitiatorAdminMBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/org/quickfixj/jmx/mbean/connector/SocketInitiatorAdminMBean.class
+END
+ConnectorAdmin$ConnectorSession.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/org/quickfixj/jmx/mbean/connector/ConnectorAdmin$ConnectorSession.class
+END
+ConnectorAdminMBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/org/quickfixj/jmx/mbean/connector/ConnectorAdminMBean.class
+END
+SocketAcceptorAdminMBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/org/quickfixj/jmx/mbean/connector/SocketAcceptorAdminMBean.class
+END
+SocketAcceptorAdmin.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/org/quickfixj/jmx/mbean/connector/SocketAcceptorAdmin.class
+END
+ConnectorAdmin.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/org/quickfixj/jmx/mbean/connector/ConnectorAdmin.class
+END
+SocketInitiatorAdmin.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/org/quickfixj/jmx/mbean/connector/SocketInitiatorAdmin.class
+END
+SocketAcceptorAdmin$SessionAcceptorAddressRow.class
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/CloudEventProcessing/DarkStar/!svn/ver/1/QuickFIXJ/core/target/classes/main/org/quickfixj/jmx/mbean/connector/SocketAcceptorAdmin$SessionAcceptorAddressRow.class
+END

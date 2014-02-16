@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="create_run_jars" name="Create Runnable Jar for Project QFJTestServer with Jar-in-Jar Loader">
+    <!--this file was created by Eclipse Runnable JAR Export Wizard-->
+    <!--ANT 1.7 is required                                        -->
+	<target depends="build,create_server_run_jar,create_client_run_jar" name="create_run_jars"/>
+	<target name="build">
+		<ant antfile="QAbuild.xml" inheritAll="false" target="build"/>
+	</target>
+    <target name="create_server_run_jar">
+        <jar destfile="../QFJServer.jar">
+            <manifest>
+                <attribute name="Main-Class" value="org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader"/>
+                <attribute name="Rsrc-Main-Class" value="com.cep.quickfix.server.Main"/>
+                <attribute name="Class-Path" value="."/>
+                <attribute name="Rsrc-Class-Path" value="./ guava-r08.jar hector-core-0.7.0-30.jar jcl104-over-slf4j-1.3.0.jar libthrift-0.6.jar slf4j-api-1.6.1.jar slf4j-log4j12-1.6.1.jar quickfixj-all-1.5.1.jar log4j-1.2.16.jar mina-core-1.1.7.jar mina-filter-ssl-1.1.7.jar perf4j-0.9.12.jar high-scale-lib-1.1.1.jar high-scale-lib.jar commons-lang-2.4.jar cassandra-all-0.7.9.jar antlr-runtime-3.2.jar cglib-nodep-2.2.jar commons-cli-1.1.jar commons-io-1.2.jar commons-logging-1.1.1.jar log4j-1.2.16.jar mongo-2.0.jar rabbitmq-client.jar commons-lang-2.4.jar commons-pool-1.5.3.jar high-scale-lib-1.1.1.jar perf4j-0.9.12.jar slf4j-api-1.6.1.jar uuid-3.2.0.jar FastInfoset-1.2.2.jar jul-to-slf4j-1.6.1.jar flex-messaging-common.jar ojdbc14.jar esper-4.2.0.jar commons-codec-1.3.jar commons-httpclient-3.0.1.jar commons-logging.jar mysql-connector-java-5.1.12-bin.jar snakeyaml-1.6.jar guava-r08.jar hector-core-0.7.0-30.jar cassandra-javautils-0.7.0.jar libthrift-0.6.jar cassandra-all-0.7.9.jar"/>
+            </manifest>
+            <zipfileset src="jar-in-jar-loader.zip"/>
+            <fileset dir="bin"/>
+            <zipfileset dir="lib" includes="guava-r08.jar"/>
+            <zipfileset dir="lib" includes="hector-core-0.7.0-30.jar"/>
+            <zipfileset dir="lib" includes="jcl104-over-slf4j-1.3.0.jar"/>
+            <zipfileset dir="lib" includes="libthrift-0.6.jar"/>
+            <zipfileset dir="lib" includes="slf4j-api-1.6.1.jar"/>
+            <zipfileset dir="lib" includes="slf4j-log4j12-1.6.1.jar"/>
+            <fileset dir="..\JSON\bin"/>
+            <zipfileset dir="lib" includes="quickfixj-all-1.5.1.jar"/>
+            <zipfileset dir="lib" includes="log4j-1.2.16.jar"/>
+            <zipfileset dir="lib" includes="mina-core-1.1.7.jar"/>
+            <zipfileset dir="lib" includes="mina-filter-ssl-1.1.7.jar"/>
+            <zipfileset dir="lib" includes="perf4j-0.9.12.jar"/>
+            <zipfileset dir="lib" includes="high-scale-lib-1.1.1.jar"/>
+            <zipfileset dir="lib" includes="high-scale-lib.jar"/>
+            <zipfileset dir="lib" includes="commons-lang-2.4.jar"/>
+            <zipfileset dir="lib" includes="cassandra-all-0.7.9.jar"/>
+            <fileset dir="..\DarkStarCore\bin"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="antlr-runtime-3.2.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="cglib-nodep-2.2.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="commons-cli-1.1.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="commons-io-1.2.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="commons-logging-1.1.1.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="log4j-1.2.16.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="mongo-2.0.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="rabbitmq-client.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="commons-lang-2.4.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="commons-pool-1.5.3.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="high-scale-lib-1.1.1.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="perf4j-0.9.12.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="slf4j-api-1.6.1.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="uuid-3.2.0.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="FastInfoset-1.2.2.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="jul-to-slf4j-1.6.1.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="flex-messaging-common.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="ojdbc14.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="esper-4.2.0.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="commons-codec-1.3.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="commons-httpclient-3.0.1.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="commons-logging.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="mysql-connector-java-5.1.12-bin.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="snakeyaml-1.6.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="guava-r08.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="hector-core-0.7.0-30.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="cassandra-javautils-0.7.0.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="libthrift-0.6.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="cassandra-all-0.7.9.jar"/>
+        </jar>
+    </target>
+	<target name="create_client_run_jar">
+        <jar destfile="../QFJClient.jar">
+            <manifest>
+                <attribute name="Main-Class" value="org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader"/>
+                <attribute name="Rsrc-Main-Class" value="com.cep.quickfix.client.Main"/>
+                <attribute name="Class-Path" value="."/>
+                <attribute name="Rsrc-Class-Path" value="./ guava-r08.jar hector-core-0.7.0-30.jar jcl104-over-slf4j-1.3.0.jar libthrift-0.6.jar slf4j-api-1.6.1.jar slf4j-log4j12-1.6.1.jar quickfixj-all-1.5.1.jar log4j-1.2.16.jar mina-core-1.1.7.jar mina-filter-ssl-1.1.7.jar perf4j-0.9.12.jar high-scale-lib-1.1.1.jar high-scale-lib.jar commons-lang-2.4.jar cassandra-all-0.7.9.jar antlr-runtime-3.2.jar cglib-nodep-2.2.jar commons-cli-1.1.jar commons-io-1.2.jar commons-logging-1.1.1.jar log4j-1.2.16.jar mongo-2.0.jar rabbitmq-client.jar commons-lang-2.4.jar commons-pool-1.5.3.jar high-scale-lib-1.1.1.jar perf4j-0.9.12.jar slf4j-api-1.6.1.jar uuid-3.2.0.jar FastInfoset-1.2.2.jar jul-to-slf4j-1.6.1.jar flex-messaging-common.jar ojdbc14.jar esper-4.2.0.jar commons-codec-1.3.jar commons-httpclient-3.0.1.jar commons-logging.jar mysql-connector-java-5.1.12-bin.jar snakeyaml-1.6.jar guava-r08.jar hector-core-0.7.0-30.jar cassandra-javautils-0.7.0.jar libthrift-0.6.jar cassandra-all-0.7.9.jar"/>
+            </manifest>
+            <zipfileset src="jar-in-jar-loader.zip"/>
+            <fileset dir="bin"/>
+            <zipfileset dir="lib" includes="guava-r08.jar"/>
+            <zipfileset dir="lib" includes="hector-core-0.7.0-30.jar"/>
+            <zipfileset dir="lib" includes="jcl104-over-slf4j-1.3.0.jar"/>
+            <zipfileset dir="lib" includes="libthrift-0.6.jar"/>
+            <zipfileset dir="lib" includes="slf4j-api-1.6.1.jar"/>
+            <zipfileset dir="lib" includes="slf4j-log4j12-1.6.1.jar"/>
+            <fileset dir="..\JSON\bin"/>
+            <zipfileset dir="lib" includes="quickfixj-all-1.5.1.jar"/>
+            <zipfileset dir="lib" includes="log4j-1.2.16.jar"/>
+            <zipfileset dir="lib" includes="mina-core-1.1.7.jar"/>
+            <zipfileset dir="lib" includes="mina-filter-ssl-1.1.7.jar"/>
+            <zipfileset dir="lib" includes="perf4j-0.9.12.jar"/>
+            <zipfileset dir="lib" includes="high-scale-lib-1.1.1.jar"/>
+            <zipfileset dir="lib" includes="high-scale-lib.jar"/>
+            <zipfileset dir="lib" includes="commons-lang-2.4.jar"/>
+            <zipfileset dir="lib" includes="cassandra-all-0.7.9.jar"/>
+            <fileset dir="..\DarkStarCore\bin"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="antlr-runtime-3.2.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="cglib-nodep-2.2.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="commons-cli-1.1.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="commons-io-1.2.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="commons-logging-1.1.1.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="log4j-1.2.16.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="mongo-2.0.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="rabbitmq-client.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="commons-lang-2.4.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="commons-pool-1.5.3.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="high-scale-lib-1.1.1.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="perf4j-0.9.12.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="slf4j-api-1.6.1.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="uuid-3.2.0.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="FastInfoset-1.2.2.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="jul-to-slf4j-1.6.1.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="flex-messaging-common.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="ojdbc14.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="esper-4.2.0.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="commons-codec-1.3.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="commons-httpclient-3.0.1.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="commons-logging.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="mysql-connector-java-5.1.12-bin.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="snakeyaml-1.6.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="guava-r08.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="hector-core-0.7.0-30.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="cassandra-javautils-0.7.0.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="libthrift-0.6.jar"/>
+            <zipfileset dir="..\DarkStarCore\lib" includes="cassandra-all-0.7.9.jar"/>
+        </jar>
+    </target>
+</project>

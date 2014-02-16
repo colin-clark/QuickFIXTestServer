@@ -1,0 +1,60 @@
+#!/bin/bash
+
+# Checks all the hosts listed in a file to see if DarkStar and
+# Cassandra are running.
+#
+# Requires the names of files in $NODE_FILE and $SUPR_FILE
+# that contains the IP addresses of all the hosts to check.  
+# Use one IP per line with no spaces or additional characters. 
+# NODE indicates DarkStar nodes and SUPR for supervisor nodes.
+# This script will call another script that should be located 
+# on each host. Its name and location are contained in the 
+# $NODE_SCRIPT and $SUPR_SCRIPT variables.
+
+NODE_FILE="/opt/Dev/scripts/configuration/nodes.txt"
+NODE_SCRIPT="/opt/Dev/scripts/check_ds"
+SUPR_FILE="/opt/Dev/scripts/configuration/supervisor_nodes.txt"
+SUPR_SCRIPT="/opt/Dev/scripts/check_rabbitmq"
+
+
+echo ""
+echo "Checking to see if DarkStar, Cassandra, and RabbitMQ are running..."
+echo ""
+
+NUM=0
+while read LINE
+do
+	SUPR_NODE[$NUM]=$LINE
+	let "NUM++"
+done < $SUPR_FILE
+for HOST in "${SUPR_NODE[@]}"
+do
+	if [ "$HOST" = "localhost" ]; then
+		echo "Status of $HOST:"
+		$SUPR_SCRIPT
+		echo ""
+	else
+		echo "Status of $HOST:"
+		ssh -p 22 $HOST $SUPR_SCRIPT
+		echo ""
+	fi
+done
+
+NUM=0
+while read LINE
+do
+	NODE[$NUM]=$LINE
+	let "NUM++"
+done < $NODE_FILE
+for HOST in "${NODE[@]}"
+do
+	if [ "$HOST" = "localhost" ]; then
+		echo "Status of $HOST:"
+		$NODE_SCRIPT
+		echo ""
+	else
+		echo "Status of $HOST:"
+		ssh -p 22 $HOST $NODE_SCRIPT
+		echo ""
+	fi
+done

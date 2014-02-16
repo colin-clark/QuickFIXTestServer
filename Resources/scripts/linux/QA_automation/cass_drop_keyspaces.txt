@@ -1,0 +1,2 @@
+drop keyspace FIX;
+drop keyspace metadata;

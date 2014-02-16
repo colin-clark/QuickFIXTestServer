@@ -1,0 +1,2 @@
+use FIX;
+truncate events;

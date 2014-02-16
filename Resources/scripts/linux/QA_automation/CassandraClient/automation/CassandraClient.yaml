@@ -1,0 +1,17 @@
+log4j_file: /opt/Dev/CassandraClient/automation/log4j.configuration
+darkStarNode: 192.168.0.11
+darkStarPort: 9159
+clusterName: DarkStarCluster
+keyspace: system
+eventName: FIXNewOrderSingle
+callback: file
+file: /opt/Dev/CassandraClient/automation/messages.txt
+cassandraNode: 192.168.1.8
+cassandraPort: 9160
+cassandraClusterName: 'Test Cluster'
+cassandraKeyspace: FIX
+partition_on: Firm
+cf_name: events
+message_count: 0
+startTime: 133100420500000 
+endTime: 2328557058028

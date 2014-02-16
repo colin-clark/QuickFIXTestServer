@@ -1,0 +1,266 @@
+#!/bin/bash
+# This is a menu script that calls other DarkStar related scripts.
+# Intended for use on a supervisor node.
+
+
+SCRIPTS=/opt/Dev/scripts
+DS_DIR=/opt/Dev/DarkStar
+CC_DIR=/opt/Dev/CassandraClient
+SC_DIR=/opt/Dev/SimpleClient
+QFJS_DIR=/opt/Dev/QFJserver
+QFJC_DIR=/opt/Dev/QFJclient
+SURV_DIR=/opt/Dev/Surveillance
+TRFA_DIR=/opt/Dev/trfApp
+TRFLR_DIR=/opt/Dev/TRFLogReader
+
+
+
+cass_clean() {
+	echo -n " Specify which node to run nodetool operations on: "
+	read OPTION
+	$SCRIPTS/cass_cleanup $OPTION
+}
+
+cass_menu() {
+	cat << !
+
+
+    CASSANDRA MENU
+
+1.  Truncate the 'events' column family in Cassandra.
+2.  Perform Cassandra nodetool repair, compact, cleanup and clearsnapshot.
+
+3.  Configure Cassandra Client with vi.
+4.  Run Cassandra Client.
+
+5.  Return to the Main Menu.
+x.  Exit.
+
+!
+	echo -n " Choose an option: "
+	read OPTION
+	
+	clear
+	case $OPTION in
+	1) cass_trunc;;
+	2) cass_clean;;
+	3) echo "Editing CassandraClient.yaml..."; vi $CC_DIR/CassandraClient.yaml;;
+	4) cd $CC_DIR; ./go.sh;;
+	5) ;;
+	x) exit;;
+	X) exit;;
+	*) echo "\"$OPTION\" is not valid ";;
+	esac
+}
+
+cass_trunc() {
+	echo -n " Specify which node to truncate Cassandra events on: "
+	read OPTION
+	$SCRIPTS/cass_truncate $OPTION
+}
+
+ds_yaml() {
+	echo -n " Specify which node to edit configuration for: "
+	read OPTION
+	echo ""
+	echo "Retrieving darkstarnode.yaml on $OPTION..." 
+	scp $OPTION:$DS_DIR/configuration/darkstarnode.yaml $SCRIPTS/darkstarnode.yaml
+	vi $SCRIPTS/darkstarnode.yaml
+	echo "Moving new configuration to $OPTION..."
+	scp $SCRIPTS/darkstarnode.yaml $OPTION:$DS_DIR/configuration/darkstarnode.yaml
+	rm $SCRIPTS/darkstarnode.yaml
+	echo ""
+	echo "Restart DarkStar to enable new configuration."
+}
+
+qfj_menu() {
+	cat << !
+
+
+    QFJ MENU
+
+1.  Configure QFJServer with vi.
+2.  Run QFJServer.
+
+3.  Configure QFJClient with vi.
+4.  Run QFJClient.
+
+5.  Return to the Main Menu.
+x.  Exit.
+
+!
+	echo -n " Choose an option: "
+	read OPTION
+	
+	clear
+	case $OPTION in
+	1) echo "Editing QFJServer.cfg..."; vi $QFJS_DIR/QFJServer.cfg;;
+	2) echo "QFJServer is running, press CTRL-C to end..."; cd $QFJS_DIR/go.sh;;
+	3) echo "Editing QFJClient.cfg..."; vi $QFJC_DIR/QFJClient.cfg;;
+	4) echo "QFJClient is running, press CTRL-C to end..."; cd $QFJC_DIR/go.sh;;
+	5) ;;
+	x) exit;;
+	X) exit;;
+	*) echo "\"$OPTION\" is not valid ";;
+	esac
+}
+
+sc_menu() {
+	cat << !
+
+
+    SIMPLE CLIENT MENU
+
+1.  Configure Simple Client with vi.
+2.  Run Simple Client.
+
+3.  Return to the Main Menu.
+x.  Exit.
+
+!
+	echo -n " Choose an option: "
+	read OPTION
+	
+	clear
+	case $OPTION in
+	1) echo "Editing SimpleClient.cfg..."; vi $SC_DIR/SimpleClient.cfg;;
+	2) cd $SC_DIR; ./go.sh;;
+	3) ;;
+	x) exit;;
+	X) exit;;
+	*) echo "\"$OPTION\" is not valid ";;
+	esac
+}
+
+surv_menu() {
+	cat << !
+
+
+    SURVEILLANCE MENU
+
+1.  Configure Surveillance with vi.
+2.  Run Surveillance.
+
+3.  Return to the Main Menu.
+x.  Exit.
+
+!
+	echo -n " Choose an option: "
+	read OPTION
+	
+	clear
+	case $OPTION in
+	1) echo "Editing surveillance.yaml..."; vi $SURV_DIR/surveillance.yaml;;
+	2) echo "Surveillance is running, press CTRL-C to end..."; cd $SURV_DIR; ./go.sh;;
+	3) ;;
+	x) exit;;
+	X) exit;;
+	*) echo "\"$OPTION\" is not valid ";;
+	esac
+}
+
+trf_log() {
+	cat << !
+
+
+	TRF LOG READER OPTIONS
+
+1.  Run TRFLogReader with the QASmokeMessage.INCOMING file.
+2.  Specify a file and run TRFLogReader.
+
+3.  Return to the Main Menu
+x.  Exit.
+
+!
+	echo -n " Choose an option: "
+	read OPTION
+	
+	clear
+	cd $TRFLR_DIR
+	case $OPTION in
+	1) echo "Running TRFLogReader..."; java -jar TRFLogReader.jar trfLogReader.yaml < QASmokeMessage.INCOMING;;
+	2) echo "Enter path and name of the input file for TRFLogReader: "; read FILE; 
+		echo "Running TRFLogReader..."; java -jar TRFLogReader.jar trfLogReader.yaml < $FILE;;
+	3) ;;
+	x) exit;;
+	X) exit;;
+	*) echo "\"$OPTION\" is not valid ";;
+	esac
+}
+
+trf_menu() {
+	cat << !
+
+
+    TRF MENU
+	
+1.  Configure trfApp with vi.
+2.  Run trfApp.
+
+3.  Configure TRFLogReader with vi.
+4.  Run TRFLogReader.
+
+5.  Return to the Main Menu.
+x.  Exit.
+
+!
+	echo -n " Choose an option: "
+	read OPTION
+	
+	clear
+	case $OPTION in
+	1) echo "Editing trfApp.yaml..."; vi $TRFA_DIR/trfApp.yaml;;
+	2) echo "trfApp is running, press CTRL-C to end..."; cd $TRFA_DIR/go.sh;;
+	3) echo "Editing TRFLogReader.yaml.cfg..."; vi $TRFLR_DIR/trfLogReader.yaml;;
+	4) trf_log;;
+	5) ;;
+	x) exit;;
+	X) exit;;
+	*) echo "\"$OPTION\" is not valid ";;
+	esac
+}
+
+
+clear
+while : 
+do
+sleep 2
+cat << !
+
+
+    DARKSTAR SUPERVISOR NODE MENU
+
+1.  Check if DarkStar, Cassandra, and RabbitMQ are running.
+2.  Start all DarkStar nodes.
+3.  Stop all DarkStar nodes.
+4.  Configure a DarkStar node.
+
+5.  Cassandra Menu.
+6.  Simple Client Menu.
+7.  QFJ Menu.
+8.  Surveillance Menu
+9.  TRF Menu.
+
+x.  Exit.
+
+!
+
+echo -n " Choose an option: "
+read OPTION
+
+clear
+case $OPTION in
+1) $SCRIPTS/check_all_nodes;;
+2) $SCRIPTS/start_all_ds_nodes;;
+3) $SCRIPTS/stop_all_ds_nodes;;
+4) ds_yaml;;
+5) cass_menu;;
+6) sc_menu;;
+7) qfj_menu;;
+8) surv_menu;;
+9) trf_menu;;
+x) exit;;
+X) exit;;
+*) echo "\"$OPTION\" is not valid ";;
+esac
+done

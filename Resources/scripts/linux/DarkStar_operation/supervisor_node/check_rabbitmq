@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# This script searches the running processes for ones containing the
+# words "rabbitmq-server" as found when RabbitMQ is running but not
+# found if it has been stopped. If there are multiple processes
+# running with those words in them, i.e. another bash script that has 
+# "rabbitmq-server" in its name, it can throw off the results returned.
+
+CHECK=`ps -ef | grep -i rabbitmq-server | grep -v grep | awk '{print $2}'`
+if [ -z "$CHECK" ]; then
+        echo "RabbitMQ is NOT running."
+else
+        echo "RabbitMQ is running."
+fi

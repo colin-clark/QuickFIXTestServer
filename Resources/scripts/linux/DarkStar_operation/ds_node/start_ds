@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# This script will start DarkStar if it isn't already running.
+# $SCRIPT variable is the name of the file to call.  $LOC is
+# the directory where that file is located.
+
+LOC="/opt/Dev/DarkStar"
+SCRIPT="go.sh"
+
+
+CHECK=`ps -ef | grep -i darkstar | grep -v grep | awk '{print $2}'`
+if [ -z "$CHECK" ]; then
+	echo "Starting DarkStar."
+	cd $LOC
+	# nohup hasn't been going back to the command line in Ubuntu
+	# The following line works around that.
+	nohup ./$SCRIPT >> nohup.out 2>&1 &
+else
+	echo "DarkStar is already running, canceling start operation."
+fi

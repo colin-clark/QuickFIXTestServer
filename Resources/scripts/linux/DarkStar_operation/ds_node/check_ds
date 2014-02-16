@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# This script searches the running processes for ones containing the
+# words "darkstar" and "cassandra". If there are multiple processes
+# running with those words in them, i.e. another bash script that has 
+# "darkstar" in its name, it can throw off the results returned.
+
+CHECK_01=`ps -ef | grep -i cassandra | grep -v grep | awk '{print $2}'`
+if [ -z "$CHECK_01" ]; then
+        echo "Cassandra is NOT running."
+else
+        echo "Cassandra is running."
+fi
+CHECK_02=`ps -ef | grep -i darkstar | grep -v grep | awk '{print $2}'`
+if [ -z "$CHECK_02" ]; then
+        echo "DarkStar is NOT running."
+else
+        echo "DarkStar is running."
+fi

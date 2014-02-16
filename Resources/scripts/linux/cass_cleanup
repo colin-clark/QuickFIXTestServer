@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# This script will run the daily clean up tasks in Cassandra.
+# It requires a host to be given as an argument.
+# Change the contents of $LOC to match the location of Cassandra.
+
+LOC="/opt/Dev/apache-cassandra-0.8.10/bin"
+
+
+if [ -z "$1" ]; then
+	echo "Need to provide a host as an argument!"
+else
+	echo "Running nodetool repair, cleanup, compact and clearsnapshot for $1 on `date`."
+	$LOC/nodetool -h $1 repair
+	$LOC/nodetool -h $1 compact
+	$LOC/nodetool -h $1 cleanup
+	$LOC/nodetool -h $1 clearsnapshot
+	echo "nodetool operations completed."
+fi

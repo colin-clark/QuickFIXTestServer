@@ -1,0 +1,23 @@
+#!/bin/bash
+
+# Will execute, in the Cassandra-cli, commands listed in a file.
+# While it can actually run other commmands, this script is meant
+# for batching the commands to truncate the column family 'events'.
+#
+# Requires the name and path of a file in the $FILE_LOC variable.
+# Use one command per line with the closing semi-colon.
+# $CASS_LOC needs to be set to the path of the cassandra bin directory.
+
+FILE_LOC="/opt/Dev/scripts/configuration/truncate.txt"
+CASS_LOC="/opt/Dev/apache-cassandra-0.8.10/bin"
+
+
+echo ""
+if [ -z "$1" ]; then
+	echo "Need to provide a host as an argument!"
+else
+	echo "Truncating events column family in Cassandra..."
+	$CASS_LOC/cassandra-cli -f $FILE_LOC -h $1 -v
+fi
+echo "Operation complete."
+echo ""

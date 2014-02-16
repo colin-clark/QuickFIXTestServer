@@ -1,0 +1,4 @@
+# cron job for daily cleanup of Cassandra.
+# The script it calls requires an IP address as an argument
+# Set the file ownership to root:root and permissions to 644
+0 2 * * * root /opt/Dev/scripts/cass_cleanup 192.168.1.8 2>&1 | /usr/bin/tee -a /var/log/cron/cass-daily.log

@@ -1,0 +1,62 @@
+#!/bin/bash
+# This is a menu script that calls other DarkStar related scripts.
+# Intended for use on a DarkStar node.
+
+
+SCRIPTS=/opt/Dev/scripts
+CC_DIR=/opt/Dev/CassandraClient
+DS_DIR=/opt/Dev/DarkStar
+
+
+cass_clean() {
+	echo -n " Specify which node to run nodetool operations on: "
+	read OPTION
+	$SCRIPTS/cass_cleanup $OPTION
+}
+
+cass_trunc() {
+	echo -n " Specify which node to truncate Cassandra events on: "
+	read OPTION
+	$SCRIPTS/cass_truncate $OPTION
+}
+
+while : 
+do
+cat << !
+
+
+    DARKSTAR NODE MENU
+
+1.  Check if DarkStar and Cassandra are running on this node.
+2.  Start DarkStar.
+3.  Stop DarkStar.
+4.  Configure DarkStar with vi.
+
+5.  Truncate the 'events' column family in Cassandra.
+6.  Perform Cassandra nodetool repair, compact, cleanup and clearsnapshot.
+
+7.  Configure Cassandra Client with vi.
+8.  Run Cassandra Client.
+
+x.  Exit.
+
+!
+
+echo -n " Choose an option: "
+read OPTION
+
+clear
+case $OPTION in
+1) echo "Checking if DarkStar and Cassandra are running on this node..."; echo ""; $SCRIPTS/check_ds;;
+2) $SCRIPTS/start_ds;;
+3) $SCRIPTS/stop_ds;;
+4) echo "Editing darkstarnode.yaml..."; vi $DS_DIR/configuration/darkstarnode.yaml;;
+5) cass_trunc;;
+6) cass_clean;;
+7) echo "Editing CassandraClient.yaml..."; vi $CC_DIR/CassandraClient.yaml;;
+8) cd $CC_DIR; ./go.sh;;
+x) exit;;
+X) exit;;
+*) echo "\"$OPTION\" is not valid "; sleep 1;;
+esac
+done

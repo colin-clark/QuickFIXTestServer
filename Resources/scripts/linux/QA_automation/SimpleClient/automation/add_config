@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "" >> /opt/Dev/hudson_test_output/test_output.txt
+echo "Simple Client Settings:" >> /opt/Dev/hudson_test_output/test_output.txt
+cat $1 | grep Rate >> /opt/Dev/hudson_test_output/test_output.txt
+cat $1 | grep batch_size >> /opt/Dev/hudson_test_output/test_output.txt
+cat $1 | grep max_messages >> /opt/Dev/hudson_test_output/test_output.txt
+echo "" >> /opt/Dev/hudson_test_output/test_output.txt

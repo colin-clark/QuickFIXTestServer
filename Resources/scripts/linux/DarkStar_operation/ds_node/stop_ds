@@ -1,0 +1,11 @@
+#!/bin/bash
+# This script will terminate a process named "darkstar" if it is running.
+
+
+CHECK_01=`ps -ef | grep -i darkstar | grep -v grep | awk '{print $2}'`
+if [ -z "$CHECK_01" ]; then
+	echo "DarkStar was not running, canceling stop operation."
+else
+	echo "Stopping DarkStar."
+	kill $CHECK_01
+fi

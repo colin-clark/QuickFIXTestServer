@@ -1,0 +1,42 @@
+supervisor_host: localhost
+mysql_url: jdbc:mysql://127.0.0.1:3306/symbols
+mysql_user: darkstar
+mysql_pwd: password
+log4j_file: log4j.configuration
+
+thread_pool_inbound: true
+thread_pool_inbound_threads: 2
+thread_pool_inbound_capacity: 10000
+
+thread_pool_outbound: true
+thread_pool_outbound_threads: 2
+thread_pool_outbound_capacity: 10000
+
+thread_pool_route_exec: true
+thread_pool_route_exec_threads: 2
+thread_pool_route_exec_capacity: 1000
+
+thread_pool_timer_exec: true
+thread_pool_timer_exec_threads: 2
+persistence_cluster: 'DarkStar Cluster'
+persistence_ip: localhost
+persistence_port: 9160
+persistence_cf: FIX
+
+cluster_name: DarkStarCluster
+initial_token: Z 
+partitioner: com.cep.messaging.impls.gossip.partitioning.OrderPreservingPartitioner
+seed_provider:
+    - class_name: com.cep.messaging.impls.gossip.configuration.SimpleSeedProvider
+      parameters:
+          # seeds is actually a comma-delimited list of addresses.
+          # Ex: "<ip1>,<ip2>,<ip3>"
+          - seeds: "127.0.0.1"
+
+storage_port: 7001
+
+listen_address: localhost
+
+rpc_port: 9159
+
+rpc_address: localhost

@@ -1,0 +1,58 @@
+supervisor_host: 10.12.252.22
+HASupervisor_host: 10.12.252.23
+cluster_surveillance: false
+log4j_file: ../configuration/log4j.configuration
+
+listen_port: 5672
+listen_topic: QUERY
+
+connection_handler: com.cep.metadata.CassandraConnectionHelper
+connection_handler_parameters: {node: "192.168.0.11", port: "9160", cluster: "'Test Cluster'", keyspace: "metadata"}
+#connection_handler: com.cep.metadata.MySQLConnectionHelper
+#connection_handler_parameters: {url: "jdbc:mysql://127.0.0.1:3306/symbols", user: "darkstar", password: "password"}
+
+thread_pool_inbound: true
+thread_pool_inbound_threads: 2
+thread_pool_inbound_capacity: 10000
+
+thread_pool_outbound: true
+thread_pool_outbound_threads: 2
+thread_pool_outbound_capacity: 10000
+
+thread_pool_route_exec: true
+thread_pool_route_exec_threads: 2
+thread_pool_route_exec_capacity: 10000
+
+thread_pool_timer_exec: true
+thread_pool_timer_exec_threads: 2
+
+persistence_cluster: 'DarkStar Cluster'
+persistence_ip: 10.12.252.22
+persistence_port: 9160
+persistence_cf: FIX
+persistence_batch_size: 1
+
+cluster_name: DarkStarCluster
+initial_token: R
+partitioner: com.cep.messaging.impls.gossip.partitioning.OrderPreservingPartitioner
+seed_provider:
+    - class_name: com.cep.messaging.impls.gossip.configuration.SimpleSeedProvider
+      parameters:
+          # seeds is actually a comma-delimited list of addresses.
+          # Ex: "<ip1>,<ip2>,<ip3>"
+          - seeds: "10.12.252.18, 10.12.252.19, 10.12.252.20"
+
+storage_port: 7001
+
+listen_address: 10.12.252.22
+
+rpc_port: 9159
+rpc_address: 10.12.252.22
+rpc_max_threads: 2147483647
+rpc_min_threads: 16
+thrift_framed_transport_size_in_mb: 15
+thrift_max_message_length_in_mb: 16
+rpc_recv_buff_size_in_bytes: 8192
+rpc_send_buff_size_in_bytes: 8192
+rpc_keepalive: true
+rpc_timeout: 1000
